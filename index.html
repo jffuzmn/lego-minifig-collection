@@ -76,7 +76,7 @@
     }
 
     .stat-label {
-      color: rgba(255,255,255,0.7);
+      color: var(--white);
       font-size: 0.7rem;
       text-transform: uppercase;
       letter-spacing: 0.1em;
@@ -91,7 +91,7 @@
     }
 
     .stat-value span {
-      color: var(--black);
+      color: var(--white);
     }
 
     .header-progress {
@@ -104,15 +104,15 @@
     .progress-bar {
       width: 160px;
       height: 8px;
-      background: rgba(0,0,0,0.2);
+      background: rgba(255,255,255,0.3);
       border-radius: 4px;
       overflow: hidden;
-      border: 1px solid rgba(0,0,0,0.2);
+      border: none;
     }
 
     .progress-fill {
       height: 100%;
-      background: var(--black);
+      background: var(--white);
       border-radius: 4px;
       transition: width 0.4s ease;
     }
@@ -375,14 +375,6 @@
 
   <div class="header-controls">
     <input type="search" id="search" placeholder="Search minifigs…" />
-    <select id="filter-series">
-      <option value="">All Series</option>
-    </select>
-    <select id="filter-status">
-      <option value="">All</option>
-      <option value="collected">Collected</option>
-      <option value="uncollected">Not Collected</option>
-    </select>
   </div>
 </header>
 
@@ -404,13 +396,6 @@
     return n(a) - n(b);
   });
 
-  const seriesSelect = document.getElementById('filter-series');
-  for (const s of seriesOrder) {
-    const opt = document.createElement('option');
-    opt.value = s;
-    opt.textContent = s;
-    seriesSelect.appendChild(opt);
-  }
 
   const main = document.getElementById('main');
   const sections = new Map();
@@ -537,27 +522,15 @@
 
   function applyFilters() {
     const q = document.getElementById('search').value.toLowerCase().trim();
-    const seriesFilter = document.getElementById('filter-series').value;
-    const statusFilter = document.getElementById('filter-status').value;
 
     let i = 0;
     for (const seriesName of seriesOrder) {
       const section = sections.get(seriesName);
       let sectionVisible = 0;
 
-      if (seriesFilter && seriesFilter !== seriesName) {
-        section.classList.add('hidden');
-        i += seriesMap.get(seriesName).length;
-        continue;
-      }
-
       for (const fig of seriesMap.get(seriesName)) {
         const card = cards.get(i++);
-        const nameMatch = !q || fig.name.toLowerCase().includes(q);
-        const statusMatch = !statusFilter
-          || (statusFilter === 'collected' && fig.collected)
-          || (statusFilter === 'uncollected' && !fig.collected);
-        const visible = nameMatch && statusMatch;
+        const visible = !q || fig.name.toLowerCase().includes(q);
         card.classList.toggle('hidden', !visible);
         if (visible) sectionVisible++;
       }
@@ -567,8 +540,6 @@
   }
 
   document.getElementById('search').addEventListener('input', applyFilters);
-  document.getElementById('filter-series').addEventListener('change', applyFilters);
-  document.getElementById('filter-status').addEventListener('change', applyFilters);
 
   loadState();
   updateStats();
