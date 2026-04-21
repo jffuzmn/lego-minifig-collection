@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minifig Collection</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="Minifigs" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --yellow: #FFED00;
+      --yellow-dark: #e6d500;
+      --red: #E3000B;
+      --black: #000000;
+      --white: #FFFFFF;
+      --bg: #F2F2F2;
+      --card-bg: #FFFFFF;
+      --border: #000000;
+      --border-light: #D8D8D8;
+      --text: #000000;
+      --text-muted: #555555;
+      --collected-green: #00B242;
+      --font: 'Cera Pro', 'Nunito', system-ui, Arial, sans-serif;
+      --radius: 8px;
+      --shadow: 0 2px 0 rgba(0,0,0,1);
+      --shadow-hover: 0 4px 0 rgba(0,0,0,1);
+    }
+
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--black);
+      padding: 0 32px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      min-height: 64px;
+    }
+
+    .header-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding-right: 32px;
+      border-right: 2px solid #222;
+    }
+
+    .lego-badge {
+      background: var(--red);
+      color: var(--white);
+      font-weight: 900;
+      font-size: 1rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 5px 10px;
+      border-radius: 4px;
+      border: 2px solid var(--white);
+      line-height: 1;
+    }
+
+    .header-title {
+      color: var(--yellow);
+      font-size: 1.05rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+    }
+
+    .header-stats {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 0 32px;
+      border-right: 2px solid #222;
+    }
+
+    .stat-label {
+      color: #888;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-weight: 700;
+    }
+
+    .stat-value {
+      color: var(--white);
+      font-size: 1.3rem;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .stat-value span {
+      color: var(--yellow);
+    }
+
+    .header-progress {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 4px;
+    }
+
+    .progress-bar {
+      width: 160px;
+      height: 8px;
+      background: #333;
+      border-radius: 4px;
+      overflow: hidden;
+      border: 1px solid #444;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: var(--yellow);
+      border-radius: 4px;
+      transition: width 0.4s ease;
+    }
+
+    .header-controls {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding-left: 32px;
+    }
+
+    input[type="search"],
+    select {
+      background: #1a1a1a;
+      border: 2px solid #333;
+      color: var(--white);
+      padding: 7px 12px;
+      border-radius: var(--radius);
+      font-size: 0.8rem;
+      font-family: var(--font);
+      font-weight: 700;
+      outline: none;
+      cursor: pointer;
+      transition: border-color 0.15s;
+    }
+
+    input[type="search"] {
+      width: 200px;
+      cursor: text;
+    }
+
+    input[type="search"]::placeholder { color: #555; }
+
+    input[type="search"]:focus,
+    select:focus { border-color: var(--yellow); }
+
+    select option { background: #1a1a1a; }
+
+    /* ── MAIN ── */
+    main {
+      padding: 32px;
+      max-width: 1600px;
+      margin: 0 auto;
+    }
+
+    /* ── SERIES SECTION ── */
+    .series-section {
+      margin-bottom: 48px;
+    }
+
+    .series-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      padding: 12px 20px;
+      background: var(--yellow);
+      border-radius: var(--radius);
+      border: 2px solid var(--black);
+      box-shadow: var(--shadow);
+    }
+
+    .series-title {
+      font-size: 1rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--black);
+    }
+
+    .series-item-num {
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #333;
+      background: rgba(0,0,0,0.12);
+      padding: 2px 7px;
+      border-radius: 4px;
+      letter-spacing: 0.04em;
+    }
+
+    .series-progress {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .series-progress-text {
+      font-size: 0.78rem;
+      font-weight: 800;
+      color: var(--black);
+      white-space: nowrap;
+    }
+
+    .series-progress-bar {
+      width: 80px;
+      height: 6px;
+      background: rgba(0,0,0,0.15);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .series-progress-fill {
+      height: 100%;
+      background: var(--black);
+      border-radius: 3px;
+      transition: width 0.3s ease;
+    }
+
+    /* ── GRID ── */
+    .figs-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 14px;
+    }
+
+    /* ── CARD ── */
+    .fig-card {
+      background: var(--card-bg);
+      border: 2px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+      position: relative;
+      user-select: none;
+      box-shadow: var(--shadow);
+    }
+
+    .fig-card:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-hover);
+    }
+
+    .fig-card:active {
+      transform: translateY(0);
+      box-shadow: var(--shadow);
+    }
+
+    .fig-card.collected {
+      border-color: var(--collected-green);
+      box-shadow: 0 2px 0 var(--collected-green);
+      background: #f0faf4;
+    }
+
+    .fig-card.collected:hover {
+      box-shadow: 0 4px 0 var(--collected-green);
+    }
+
+    /* ── IMAGE ── */
+    .fig-img-wrap {
+      width: 100%;
+      aspect-ratio: 1;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .fig-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .fig-img-wrap .no-img {
+      font-size: 2.5rem;
+      opacity: 0.2;
+    }
+
+    /* ── COLLECTED BADGE ── */
+    .collected-badge {
+      position: absolute;
+      top: 6px;
+      right: 6px;
+      width: 24px;
+      height: 24px;
+      background: var(--collected-green);
+      border: 2px solid var(--white);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transform: scale(0.6);
+      transition: opacity 0.15s, transform 0.15s;
+    }
+
+    .collected-badge svg {
+      width: 13px;
+      height: 13px;
+      fill: var(--white);
+    }
+
+    .fig-card.collected .collected-badge {
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    /* uncollected dim overlay */
+    .fig-card:not(.collected) .fig-img-wrap::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(255,255,255,0.45);
+      pointer-events: none;
+    }
+
+    /* ── CARD LABEL ── */
+    .fig-info {
+      padding: 8px 10px;
+      border-top: 2px solid var(--border-light);
+    }
+
+    .fig-card.collected .fig-info {
+      border-top-color: var(--collected-green);
+      background: #f0faf4;
+    }
+
+    .fig-name {
+      font-size: 0.7rem;
+      font-weight: 800;
+      line-height: 1.3;
+      color: var(--text);
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .fig-card.collected .fig-name {
+      color: var(--collected-green);
+    }
+
+    /* ── UTILITY ── */
+    .fig-card.hidden { display: none; }
+    .series-section.hidden { display: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-brand">
+    <div class="lego-badge">LEGO</div>
+    <span class="header-title">Minifig Collection</span>
+  </div>
+
+  <div class="header-stats">
+    <div>
+      <div class="stat-label">Collected</div>
+      <div class="stat-value"><span id="stat-collected">0</span> / <span id="stat-total">0</span></div>
+    </div>
+    <div class="header-progress">
+      <div class="stat-label" id="stat-pct">0%</div>
+      <div class="progress-bar"><div class="progress-fill" id="global-progress" style="width:0%"></div></div>
+    </div>
+  </div>
+
+  <div class="header-controls">
+    <input type="search" id="search" placeholder="Search minifigs…" />
+    <select id="filter-series">
+      <option value="">All Series</option>
+    </select>
+    <select id="filter-status">
+      <option value="">All</option>
+      <option value="collected">Collected</option>
+      <option value="uncollected">Not Collected</option>
+    </select>
+  </div>
+</header>
+
+<main id="main"></main>
+
+<script>
+(async () => {
+  const res = await fetch('data.json');
+  const data = await res.json();
+
+  const seriesMap = new Map();
+  for (const fig of data) {
+    if (!seriesMap.has(fig.series)) seriesMap.set(fig.series, []);
+    seriesMap.get(fig.series).push(fig);
+  }
+
+  const seriesOrder = [...seriesMap.keys()].sort((a, b) => {
+    const n = s => parseInt(s.replace(/\D/g, ''));
+    return n(a) - n(b);
+  });
+
+  const seriesSelect = document.getElementById('filter-series');
+  for (const s of seriesOrder) {
+    const opt = document.createElement('option');
+    opt.value = s;
+    opt.textContent = s;
+    seriesSelect.appendChild(opt);
+  }
+
+  const main = document.getElementById('main');
+  const sections = new Map();
+  const cards = new Map();
+
+  let figIdx = 0;
+  for (const seriesName of seriesOrder) {
+    const figs = seriesMap.get(seriesName);
+    const itemNum = figs[0].itemNum;
+
+    const section = document.createElement('div');
+    section.className = 'series-section';
+    section.dataset.series = seriesName;
+
+    const header = document.createElement('div');
+    header.className = 'series-header';
+    header.innerHTML = `
+      <span class="series-title">${seriesName}</span>
+      <span class="series-item-num">#${itemNum}</span>
+      <div class="series-progress">
+        <span class="series-progress-text" data-series-prog="${seriesName}">0/${figs.length}</span>
+        <div class="series-progress-bar">
+          <div class="series-progress-fill" data-series-bar="${seriesName}" style="width:0%"></div>
+        </div>
+      </div>
+    `;
+    section.appendChild(header);
+
+    const grid = document.createElement('div');
+    grid.className = 'figs-grid';
+
+    for (const fig of figs) {
+      const idx = figIdx++;
+      const card = document.createElement('div');
+      card.className = 'fig-card' + (fig.collected ? ' collected' : '');
+      card.dataset.name = fig.name.toLowerCase();
+      card.dataset.series = fig.series;
+      card.dataset.collected = fig.collected ? '1' : '0';
+
+      card.innerHTML = `
+        <div class="fig-img-wrap">
+          ${fig.img
+            ? `<img src="images/${fig.series.toLowerCase()}/${fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}.webp"
+                    alt="${fig.name}"
+                    loading="lazy"
+                    onerror="this.onerror=null;this.src='${fig.img}'" />`
+            : `<span class="no-img">🧱</span>`
+          }
+          <div class="collected-badge">
+            <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+          </div>
+        </div>
+        <div class="fig-info">
+          <div class="fig-name">${fig.name}</div>
+        </div>
+      `;
+
+      card.addEventListener('click', () => {
+        fig.collected = !fig.collected;
+        card.dataset.collected = fig.collected ? '1' : '0';
+        card.classList.toggle('collected', fig.collected);
+        updateStats();
+        saveState();
+      });
+
+      cards.set(idx, card);
+      grid.appendChild(card);
+    }
+
+    section.appendChild(grid);
+    main.appendChild(section);
+    sections.set(seriesName, section);
+  }
+
+  function loadState() {
+    try {
+      const saved = JSON.parse(localStorage.getItem('minifig-collection') || '{}');
+      let i = 0;
+      for (const seriesName of seriesOrder) {
+        for (const fig of seriesMap.get(seriesName)) {
+          if (saved[i] !== undefined) {
+            fig.collected = saved[i];
+            const card = cards.get(i);
+            card.dataset.collected = fig.collected ? '1' : '0';
+            card.classList.toggle('collected', fig.collected);
+          }
+          i++;
+        }
+      }
+    } catch (e) {}
+  }
+
+  function saveState() {
+    const state = {};
+    let i = 0;
+    for (const seriesName of seriesOrder) {
+      for (const fig of seriesMap.get(seriesName)) {
+        state[i] = fig.collected;
+        i++;
+      }
+    }
+    localStorage.setItem('minifig-collection', JSON.stringify(state));
+  }
+
+  function updateStats() {
+    let total = 0, collected = 0;
+    for (const seriesName of seriesOrder) {
+      const figs = seriesMap.get(seriesName);
+      const sc = figs.filter(f => f.collected).length;
+      total += figs.length;
+      collected += sc;
+      const pct = figs.length ? (sc / figs.length * 100).toFixed(0) : 0;
+      const progEl = document.querySelector(`[data-series-prog="${seriesName}"]`);
+      const barEl = document.querySelector(`[data-series-bar="${seriesName}"]`);
+      if (progEl) progEl.textContent = `${sc}/${figs.length}`;
+      if (barEl) barEl.style.width = `${pct}%`;
+    }
+    document.getElementById('stat-collected').textContent = collected;
+    document.getElementById('stat-total').textContent = total;
+    const pct = total ? (collected / total * 100).toFixed(1) : 0;
+    document.getElementById('stat-pct').textContent = pct + '%';
+    document.getElementById('global-progress').style.width = pct + '%';
+  }
+
+  function applyFilters() {
+    const q = document.getElementById('search').value.toLowerCase().trim();
+    const seriesFilter = document.getElementById('filter-series').value;
+    const statusFilter = document.getElementById('filter-status').value;
+
+    let i = 0;
+    for (const seriesName of seriesOrder) {
+      const section = sections.get(seriesName);
+      let sectionVisible = 0;
+
+      if (seriesFilter && seriesFilter !== seriesName) {
+        section.classList.add('hidden');
+        i += seriesMap.get(seriesName).length;
+        continue;
+      }
+
+      for (const fig of seriesMap.get(seriesName)) {
+        const card = cards.get(i++);
+        const nameMatch = !q || fig.name.toLowerCase().includes(q);
+        const statusMatch = !statusFilter
+          || (statusFilter === 'collected' && fig.collected)
+          || (statusFilter === 'uncollected' && !fig.collected);
+        const visible = nameMatch && statusMatch;
+        card.classList.toggle('hidden', !visible);
+        if (visible) sectionVisible++;
+      }
+
+      section.classList.toggle('hidden', sectionVisible === 0);
+    }
+  }
+
+  document.getElementById('search').addEventListener('input', applyFilters);
+  document.getElementById('filter-series').addEventListener('change', applyFilters);
+  document.getElementById('filter-status').addEventListener('change', applyFilters);
+
+  loadState();
+  updateStats();
+})();
+</script>
+</body>
+</html>

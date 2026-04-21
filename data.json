@@ -1,0 +1,2928 @@
+[
+  {
+    "name": "Caveman",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001511.jpg"
+  },
+  {
+    "name": "Cheerleader",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001074.jpg"
+  },
+  {
+    "name": "Circus Clown",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001081.jpg"
+  },
+  {
+    "name": "Cowboy",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000893.jpg"
+  },
+  {
+    "name": "Deep Sea Diver",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001189.jpg"
+  },
+  {
+    "name": "Demolition Dummy",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001048.jpg"
+  },
+  {
+    "name": "Forestman",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001187.jpg"
+  },
+  {
+    "name": "Magician",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001061.jpg"
+  },
+  {
+    "name": "Ninja",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000892.jpg"
+  },
+  {
+    "name": "Nurse",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000891.jpg"
+  },
+  {
+    "name": "Robot",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000695.jpg"
+  },
+  {
+    "name": "Skater",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000890.jpg"
+  },
+  {
+    "name": "Spaceman",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001098.jpg"
+  },
+  {
+    "name": "Super Wrestler",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001123.jpg"
+  },
+  {
+    "name": "Tribal hunter",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001070.jpg"
+  },
+  {
+    "name": "Zombie",
+    "itemNum": "8683",
+    "series": "Series 1",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001182.jpg"
+  },
+  {
+    "name": "Disco Dude",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000896.jpg"
+  },
+  {
+    "name": "Explorer",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001288.jpg"
+  },
+  {
+    "name": "Karate Master",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000905.jpg"
+  },
+  {
+    "name": "Lifeguard",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000201.jpg"
+  },
+  {
+    "name": "Maraca Man",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001230.jpg"
+  },
+  {
+    "name": "Mime",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008409.jpg"
+  },
+  {
+    "name": "Pharaoh",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001320.jpg"
+  },
+  {
+    "name": "Pop Star",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000037.jpg"
+  },
+  {
+    "name": "Ringmaster",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001157.jpg"
+  },
+  {
+    "name": "Skier",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001337.jpg"
+  },
+  {
+    "name": "Spartan Warrior",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001220.jpg"
+  },
+  {
+    "name": "Surfer",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000046.jpg"
+  },
+  {
+    "name": "Traffic Cop",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001186.jpg"
+  },
+  {
+    "name": "Vampire",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001223.jpg"
+  },
+  {
+    "name": "Weight Lifter",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012442.jpg"
+  },
+  {
+    "name": "Witch",
+    "itemNum": "8684",
+    "series": "Series 2",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-003310.jpg"
+  },
+  {
+    "name": "Hula Dancer",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001326.jpg"
+  },
+  {
+    "name": "Tribal Chief",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000899.jpg"
+  },
+  {
+    "name": "Samurai Warrior",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001215.jpg"
+  },
+  {
+    "name": "Tennis Player",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000901.jpg"
+  },
+  {
+    "name": "Sumo Wrestler",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000117.jpg"
+  },
+  {
+    "name": "Baseball Player",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000904.jpg"
+  },
+  {
+    "name": "Fisherman",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-016375.jpg"
+  },
+  {
+    "name": "Elf",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000907.jpg"
+  },
+  {
+    "name": "Rapper",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000903.jpg"
+  },
+  {
+    "name": "Space Alien",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001156.jpg"
+  },
+  {
+    "name": "Gorilla Suit Guy",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000902.jpg"
+  },
+  {
+    "name": "Race Car Driver",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000024.jpg"
+  },
+  {
+    "name": "Mummy",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000900.jpg"
+  },
+  {
+    "name": "Snowboarder",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001216.jpg"
+  },
+  {
+    "name": "Space Villain",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001217.jpg"
+  },
+  {
+    "name": "Pilot",
+    "itemNum": "8803",
+    "series": "Series 3",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000898.jpg"
+  },
+  {
+    "name": "Artist",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000197.jpg"
+  },
+  {
+    "name": "Crazy Scientist",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000036.jpg"
+  },
+  {
+    "name": "Hazmat Guy",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000923.jpg"
+  },
+  {
+    "name": "Hockey Player",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000177.jpg"
+  },
+  {
+    "name": "Ice Skater",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000909.jpg"
+  },
+  {
+    "name": "Kimono Girl",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008410.jpg"
+  },
+  {
+    "name": "Lawn Gnome",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000910.jpg"
+  },
+  {
+    "name": "The Monster",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000914.jpg"
+  },
+  {
+    "name": "Musketeer",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000911.jpg"
+  },
+  {
+    "name": "Punk Rocker",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001219.jpg"
+  },
+  {
+    "name": "Sailor",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000915.jpg"
+  },
+  {
+    "name": "Street Skater",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000031.jpg"
+  },
+  {
+    "name": "Soccer Player",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000176.jpg"
+  },
+  {
+    "name": "Surfer Girl",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000912.jpg"
+  },
+  {
+    "name": "Viking",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000913.jpg"
+  },
+  {
+    "name": "Werewolf",
+    "itemNum": "8804",
+    "series": "Series 4",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000204.jpg"
+  },
+  {
+    "name": "Boxer",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000919.jpg"
+  },
+  {
+    "name": "Cave Woman",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000922.jpg"
+  },
+  {
+    "name": "Detective",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000888.jpg"
+  },
+  {
+    "name": "Egyptian Queen",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008411.jpg"
+  },
+  {
+    "name": "Evil Dwarf",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000926.jpg"
+  },
+  {
+    "name": "Fitness Instructor",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000917.jpg"
+  },
+  {
+    "name": "Gangster",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000927.jpg"
+  },
+  {
+    "name": "Gladiator",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000366.jpg"
+  },
+  {
+    "name": "Graduate",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000916.jpg"
+  },
+  {
+    "name": "Lizard Man",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000499.jpg"
+  },
+  {
+    "name": "Lumberjack",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000965.jpg"
+  },
+  {
+    "name": "Ice Fisherman",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001322.jpg"
+  },
+  {
+    "name": "Royal Guard",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012447.jpg"
+  },
+  {
+    "name": "Small Clown",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000925.jpg"
+  },
+  {
+    "name": "Snowboarder Guy",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000928.jpg"
+  },
+  {
+    "name": "Zookeeper",
+    "itemNum": "8805",
+    "series": "Series 5",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000924.jpg"
+  },
+  {
+    "name": "Bandit",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001149.jpg"
+  },
+  {
+    "name": "Butcher",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000918.jpg"
+  },
+  {
+    "name": "Classic Alien",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000920.jpg"
+  },
+  {
+    "name": "Clockwork Robot",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001221.jpg"
+  },
+  {
+    "name": "Genie",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000538.jpg"
+  },
+  {
+    "name": "Flamenco Dancer",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008415.jpg"
+  },
+  {
+    "name": "Highland Battler",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000416.jpg"
+  },
+  {
+    "name": "Intergalactic Girl",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000931.jpg"
+  },
+  {
+    "name": "Lady Liberty",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-005985.jpg"
+  },
+  {
+    "name": "Leprechaun",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001020.jpg"
+  },
+  {
+    "name": "Mechanic",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000932.jpg"
+  },
+  {
+    "name": "Minotaur",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001003.jpg"
+  },
+  {
+    "name": "Roman Soldier",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001005.jpg"
+  },
+  {
+    "name": "Skater Girl",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000930.jpg"
+  },
+  {
+    "name": "Sleepyhead",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001146.jpg"
+  },
+  {
+    "name": "Surgeon",
+    "itemNum": "8827",
+    "series": "Series 6",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000929.jpg"
+  },
+  {
+    "name": "Aztec Warrior",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000572.jpg"
+  },
+  {
+    "name": "Bagpiper",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000938.jpg"
+  },
+  {
+    "name": "Bride",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008320.jpg"
+  },
+  {
+    "name": "Bunny Suit Guy",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000936.jpg"
+  },
+  {
+    "name": "Computer Programmer",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000941.jpg"
+  },
+  {
+    "name": "Daredevil",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000241.jpg"
+  },
+  {
+    "name": "Evil Knight",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001489.jpg"
+  },
+  {
+    "name": "Galaxy Patrol",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000939.jpg"
+  },
+  {
+    "name": "Grandma Visitor",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000942.jpg"
+  },
+  {
+    "name": "Hippie",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000934.jpg"
+  },
+  {
+    "name": "Jungle Boy",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000935.jpg"
+  },
+  {
+    "name": "Ocean King",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000937.jpg"
+  },
+  {
+    "name": "Rocker Girl",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000171.jpg"
+  },
+  {
+    "name": "Swimming Champion",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001325.jpg"
+  },
+  {
+    "name": "Tennis Ace",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000940.jpg"
+  },
+  {
+    "name": "Viking Woman",
+    "itemNum": "8831",
+    "series": "Series 7",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008770.jpg"
+  },
+  {
+    "name": "Evil Robot",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001306.jpg"
+  },
+  {
+    "name": "Conquistador",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000025.jpg"
+  },
+  {
+    "name": "Lederhosen Guy",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001222.jpg"
+  },
+  {
+    "name": "Cowgirl",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000589.jpg"
+  },
+  {
+    "name": "Football Player",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000459.jpg"
+  },
+  {
+    "name": "Diver",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001327.jpg"
+  },
+  {
+    "name": "Downhill Skier",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001329.jpg"
+  },
+  {
+    "name": "Businessman",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000951.jpg"
+  },
+  {
+    "name": "Fairy",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000603.jpg"
+  },
+  {
+    "name": "Santa",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001208.jpg"
+  },
+  {
+    "name": "Vampire Bat",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000944.jpg"
+  },
+  {
+    "name": "DJ",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001224.jpg"
+  },
+  {
+    "name": "Red Cheerleader",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001064.jpg"
+  },
+  {
+    "name": "The Thespian",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg"
+  },
+  {
+    "name": "Pirate Captain",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001071.jpg"
+  },
+  {
+    "name": "Alien Villainess",
+    "itemNum": "8833",
+    "series": "Series 8",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008772.jpg"
+  },
+  {
+    "name": "Waiter",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000066.jpg"
+  },
+  {
+    "name": "Cyclops",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000615.jpg"
+  },
+  {
+    "name": "Hollywood Starlet",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008775.jpg"
+  },
+  {
+    "name": "Heroic Knight",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000491.jpg"
+  },
+  {
+    "name": "Roman Emperor",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000885.jpg"
+  },
+  {
+    "name": "Policeman",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000947.jpg"
+  },
+  {
+    "name": "Chicken Suit Guy",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000022.jpg"
+  },
+  {
+    "name": "Roller Derby Girl",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001001.jpg"
+  },
+  {
+    "name": "Fortune Teller",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008774.jpg"
+  },
+  {
+    "name": "Judge",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000946.jpg"
+  },
+  {
+    "name": "Alien Avenger",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000945.jpg"
+  },
+  {
+    "name": "Mermaid",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000110.jpg"
+  },
+  {
+    "name": "Battle Mech",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000948.jpg"
+  },
+  {
+    "name": "Mr. Good and Evil",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000502.jpg"
+  },
+  {
+    "name": "Forest Maiden",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008773.jpg"
+  },
+  {
+    "name": "Plumber",
+    "itemNum": "71000",
+    "series": "Series 9",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000949.jpg"
+  },
+  {
+    "name": "Librarian",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000950.jpg"
+  },
+  {
+    "name": "Medusa",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000651.jpg"
+  },
+  {
+    "name": "Roman Commander",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000952.jpg"
+  },
+  {
+    "name": "Warrior Woman",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000023.jpg"
+  },
+  {
+    "name": "Tomahawk Warrior",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000047.jpg"
+  },
+  {
+    "name": "Skydiver",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001339.jpg"
+  },
+  {
+    "name": "Bumblebee Girl",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000955.jpg"
+  },
+  {
+    "name": "Grandpa",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000956.jpg"
+  },
+  {
+    "name": "Paintballer",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008252.jpg"
+  },
+  {
+    "name": "Sea Captain",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001016.jpg"
+  },
+  {
+    "name": "Sad Clown",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000698.jpg"
+  },
+  {
+    "name": "Revolutionary Soldier",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000957.jpg"
+  },
+  {
+    "name": "Baseball Fielder",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000708.jpg"
+  },
+  {
+    "name": "Trendsetter",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000953.jpg"
+  },
+  {
+    "name": "Decorator",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001015.jpg"
+  },
+  {
+    "name": "Motorcycle Mechanic",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000958.jpg"
+  },
+  {
+    "name": "Mr. Gold",
+    "itemNum": "71001",
+    "series": "Series 10",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000825.jpg"
+  },
+  {
+    "name": "Yeti",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000082.jpg"
+  },
+  {
+    "name": "Evil Mech",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000973.jpg"
+  },
+  {
+    "name": "Welder",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000966.jpg"
+  },
+  {
+    "name": "Lady Robot",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000543.jpg"
+  },
+  {
+    "name": "Saxophone Player",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000536.jpg"
+  },
+  {
+    "name": "Constable",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000963.jpg"
+  },
+  {
+    "name": "Holiday Elf",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000960.jpg"
+  },
+  {
+    "name": "Pretzel Girl",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000080.jpg"
+  },
+  {
+    "name": "Scarecrow",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001019.jpg"
+  },
+  {
+    "name": "Mountain Climber",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000518.jpg"
+  },
+  {
+    "name": "Grandma",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001017.jpg"
+  },
+  {
+    "name": "Island Warrior",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000968.jpg"
+  },
+  {
+    "name": "Gingerbread Man",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000964.jpg"
+  },
+  {
+    "name": "Barbarian",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000961.jpg"
+  },
+  {
+    "name": "Diner Waitress",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000959.jpg"
+  },
+  {
+    "name": "Scientist",
+    "itemNum": "71002",
+    "series": "Series 11",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000962.jpg"
+  },
+  {
+    "name": "Space Miner",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000255.jpg"
+  },
+  {
+    "name": "Battle Goddess",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000378.jpg"
+  },
+  {
+    "name": "Wizard",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008777.jpg"
+  },
+  {
+    "name": "Dino Tracker",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000551.jpg"
+  },
+  {
+    "name": "Swashbuckler",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000583.jpg"
+  },
+  {
+    "name": "Jester",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000579.jpg"
+  },
+  {
+    "name": "Piggy Guy",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001141.jpg"
+  },
+  {
+    "name": "Hun Warrior",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000592.jpg"
+  },
+  {
+    "name": "Fairytale Princess",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008776.jpg"
+  },
+  {
+    "name": "Pizza Delivery Man",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001237.jpg"
+  },
+  {
+    "name": "Video Game Guy",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000089.jpg"
+  },
+  {
+    "name": "Spooky Girl",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001238.jpg"
+  },
+  {
+    "name": "Prospector",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001239.jpg"
+  },
+  {
+    "name": "Genie Girl",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001241.jpg"
+  },
+  {
+    "name": "Rock Star",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001240.jpg"
+  },
+  {
+    "name": "Lifeguard",
+    "itemNum": "71007",
+    "series": "Series 12",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000201.jpg"
+  },
+  {
+    "name": "Galaxy Trooper",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001356.jpg"
+  },
+  {
+    "name": "Alien Trooper",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001331.jpg"
+  },
+  {
+    "name": "Evil Wizard",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008779.jpg"
+  },
+  {
+    "name": "King",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001314.jpg"
+  },
+  {
+    "name": "Goblin",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001319.jpg"
+  },
+  {
+    "name": "Lady Cyclops",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001353.jpg"
+  },
+  {
+    "name": "Snake Charmer",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001318.jpg"
+  },
+  {
+    "name": "Paleontologist",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001358.jpg"
+  },
+  {
+    "name": "Carpenter",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001338.jpg"
+  },
+  {
+    "name": "Hot Dog Guy",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001350.jpg"
+  },
+  {
+    "name": "Sheriff",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001316.jpg"
+  },
+  {
+    "name": "Samurai",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001344.jpg"
+  },
+  {
+    "name": "Disco Diva",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001347.jpg"
+  },
+  {
+    "name": "Unicorn Girl",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001317.jpg"
+  },
+  {
+    "name": "Fencer",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001340.jpg"
+  },
+  {
+    "name": "Egyptian Warrior",
+    "itemNum": "71008",
+    "series": "Series 13",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001336.jpg"
+  },
+  {
+    "name": "Monster Scientist",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001438.jpg"
+  },
+  {
+    "name": "Monster Rocker",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001466.jpg"
+  },
+  {
+    "name": "Zombie Businessman",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001467.jpg"
+  },
+  {
+    "name": "Plant Monster",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001446.jpg"
+  },
+  {
+    "name": "Skeleton Guy",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001464.jpg"
+  },
+  {
+    "name": "Tiger Woman",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001459.jpg"
+  },
+  {
+    "name": "Spider Lady",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-006437.jpg"
+  },
+  {
+    "name": "Wolf Guy",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001432.jpg"
+  },
+  {
+    "name": "Wacky Witch",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001444.jpg"
+  },
+  {
+    "name": "Zombie Cheerleader",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001456.jpg"
+  },
+  {
+    "name": "Zombie Pirate",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001436.jpg"
+  },
+  {
+    "name": "Fly Monster",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001448.jpg"
+  },
+  {
+    "name": "Gargoyle",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001462.jpg"
+  },
+  {
+    "name": "Banshee",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001469.jpg"
+  },
+  {
+    "name": "Spectre",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": null
+  },
+  {
+    "name": "Square Foot",
+    "itemNum": "71010",
+    "series": "Series 14",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001470.jpg"
+  },
+  {
+    "name": "Farmer",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001012.jpg"
+  },
+  {
+    "name": "Faun",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001452.jpg"
+  },
+  {
+    "name": "Tribal Woman",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001021.jpg"
+  },
+  {
+    "name": "Shark Suit Guy",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001355.jpg"
+  },
+  {
+    "name": "Queen",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001052.jpg"
+  },
+  {
+    "name": "Animal Control",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001352.jpg"
+  },
+  {
+    "name": "Jewel Thief",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001049.jpg"
+  },
+  {
+    "name": "Ballerina",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001463.jpg"
+  },
+  {
+    "name": "Flying Warrior",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001022.jpg"
+  },
+  {
+    "name": "Frightening Knight",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001465.jpg"
+  },
+  {
+    "name": "Wrestling Champion",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001349.jpg"
+  },
+  {
+    "name": "Clumsy Guy",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001460.jpg"
+  },
+  {
+    "name": "Kendo Fighter",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001034.jpg"
+  },
+  {
+    "name": "Astronaut",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001014.jpg"
+  },
+  {
+    "name": "Laser Mech",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001037.jpg"
+  },
+  {
+    "name": "Janitor",
+    "itemNum": "71011",
+    "series": "Series 15",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001351.jpg"
+  },
+  {
+    "name": "Ice Queen",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008789.jpg"
+  },
+  {
+    "name": "Cute Little Devil",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001256.jpg"
+  },
+  {
+    "name": "Spooky Boy",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001259.jpg"
+  },
+  {
+    "name": "Babysitter",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008788.jpg"
+  },
+  {
+    "name": "Spy",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001270.jpg"
+  },
+  {
+    "name": "Banana Guy",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001271.jpg"
+  },
+  {
+    "name": "Mariachi",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001269.jpg"
+  },
+  {
+    "name": "Penguin Boy",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001262.jpg"
+  },
+  {
+    "name": "Wildlife Photographer",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001263.jpg"
+  },
+  {
+    "name": "Kickboxer",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001265.jpg"
+  },
+  {
+    "name": "Rogue",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001264.jpg"
+  },
+  {
+    "name": "Cyborg",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001253.jpg"
+  },
+  {
+    "name": "Hiker",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001261.jpg"
+  },
+  {
+    "name": "Desert Warrior",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001248.jpg"
+  },
+  {
+    "name": "Scallywag Pirate",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001267.jpg"
+  },
+  {
+    "name": "Dog Show Winner",
+    "itemNum": "71013",
+    "series": "Series 16",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001266.jpg"
+  },
+  {
+    "name": "Pro Surfer",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001610.jpg"
+  },
+  {
+    "name": "Gourmet Chef",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001599.jpg"
+  },
+  {
+    "name": "Hot Dog Vendor",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001604.jpg"
+  },
+  {
+    "name": "Elf Maiden",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008790.jpg"
+  },
+  {
+    "name": "Circus Strongman",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg"
+  },
+  {
+    "name": "Yuppie",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001602.jpg"
+  },
+  {
+    "name": "Veterinarian",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001612.jpg"
+  },
+  {
+    "name": "Connoisseur",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001615.jpg"
+  },
+  {
+    "name": "Butterfly Girl",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001619.jpg"
+  },
+  {
+    "name": "Roman Gladiator",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001613.jpg"
+  },
+  {
+    "name": "Corn Cob Guy",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001600.jpg"
+  },
+  {
+    "name": "Retro Space Hero",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001603.jpg"
+  },
+  {
+    "name": "Dance Instructor",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001616.jpg"
+  },
+  {
+    "name": "Battle Dwarf",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001614.jpg"
+  },
+  {
+    "name": "Rocket Boy",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001598.jpg"
+  },
+  {
+    "name": "Highwayman",
+    "itemNum": "71018",
+    "series": "Series 17",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001601.jpg"
+  },
+  {
+    "name": "LEGO Brick Suit Guy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001738.jpg"
+  },
+  {
+    "name": "1978 Police Officer",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001744.jpg"
+  },
+  {
+    "name": "Elephant Costume Girl",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001737.jpg"
+  },
+  {
+    "name": "Firework Guy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001741.jpg"
+  },
+  {
+    "name": "Dragon Suit Guy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001743.jpg"
+  },
+  {
+    "name": "Cake Guy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001746.jpg"
+  },
+  {
+    "name": "Race Car Guy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001749.jpg"
+  },
+  {
+    "name": "Flowerpot Girl",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001750.jpg"
+  },
+  {
+    "name": "LEGO Brick Suit Girl",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001739.jpg"
+  },
+  {
+    "name": "Unicorn Guy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001753.jpg"
+  },
+  {
+    "name": "Birthday Party Boy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001752.jpg"
+  },
+  {
+    "name": "Spider Suit Boy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001745.jpg"
+  },
+  {
+    "name": "Birthday Party Girl",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001742.jpg"
+  },
+  {
+    "name": "Cactus Girl",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001747.jpg"
+  },
+  {
+    "name": "Cowboy Costume Guy",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001751.jpg"
+  },
+  {
+    "name": "Party Clown",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001740.jpg"
+  },
+  {
+    "name": "Cat Costume Girl",
+    "itemNum": "71021",
+    "series": "Series 18",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001748.jpg"
+  },
+  {
+    "name": "Gamer",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001298.jpg"
+  },
+  {
+    "name": "Shower Guy",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-002071.jpg"
+  },
+  {
+    "name": "Ghost Knight",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-006546.jpg"
+  },
+  {
+    "name": "Monkey King",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-002073.jpg"
+  },
+  {
+    "name": "Programmer",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000695.jpg"
+  },
+  {
+    "name": "Mummy",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000900.jpg"
+  },
+  {
+    "name": "Jungle Explorer",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012651.jpg"
+  },
+  {
+    "name": "Firefighter",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000440.jpg"
+  },
+  {
+    "name": "Dog Carer",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-002078.jpg"
+  },
+  {
+    "name": "Pizza Guy",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-002966.jpg"
+  },
+  {
+    "name": "Space Bounty Hunter",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-004019.jpg"
+  },
+  {
+    "name": "Gardener",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg"
+  },
+  {
+    "name": "Rugby Player",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-002082.jpg"
+  },
+  {
+    "name": "Fox Suit Girl",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015512.jpg"
+  },
+  {
+    "name": "Bear Costume Guy",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008252.jpg"
+  },
+  {
+    "name": "Mountain Biker",
+    "itemNum": "71025",
+    "series": "Series 19",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012813.jpg"
+  },
+  {
+    "name": "80s Musician",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008799.jpg"
+  },
+  {
+    "name": "Athlete",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008804.jpg"
+  },
+  {
+    "name": "Breakdancer",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008809.jpg"
+  },
+  {
+    "name": "Brick Costume Boy",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-006029.jpg"
+  },
+  {
+    "name": "Drone Boy",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-010037.jpg"
+  },
+  {
+    "name": "Llama Costume Girl",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008806.jpg"
+  },
+  {
+    "name": "Martial Arts Boy",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008805.jpg"
+  },
+  {
+    "name": "Pea Pod Costume Girl",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015512.jpg"
+  },
+  {
+    "name": "Pinata Boy",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008796.jpg"
+  },
+  {
+    "name": "Pirate Girl",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-002561.jpg"
+  },
+  {
+    "name": "Pajama Girl",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015512.jpg"
+  },
+  {
+    "name": "Sea Rescuer",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008803.jpg"
+  },
+  {
+    "name": "Space Fan",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008797.jpg"
+  },
+  {
+    "name": "Super Warrior",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008800.jpg"
+  },
+  {
+    "name": "Tournament Knight",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008798.jpg"
+  },
+  {
+    "name": "Viking",
+    "itemNum": "71027",
+    "series": "Series 20",
+    "collected": false,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000913.jpg"
+  },
+  {
+    "name": "Airplane Girl",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011022.jpg"
+  },
+  {
+    "name": "Alien",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000018.jpg"
+  },
+  {
+    "name": "Ancient Warrior",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011023.jpg"
+  },
+  {
+    "name": "Beekeeper",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011021.jpg"
+  },
+  {
+    "name": "Cabaret Singer",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011020.jpg"
+  },
+  {
+    "name": "Centaur Warrior",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011019.jpg"
+  },
+  {
+    "name": "Ladybug Girl",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-005985.jpg"
+  },
+  {
+    "name": "Paddle Surfer",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011017.jpg"
+  },
+  {
+    "name": "Pug Costume Guy",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011016.jpg"
+  },
+  {
+    "name": "Shipwreck Survivor",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011014.jpg"
+  },
+  {
+    "name": "Space Police Guy",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011012.jpg"
+  },
+  {
+    "name": "Violin Kid",
+    "itemNum": "71029",
+    "series": "Series 21",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011013.jpg"
+  },
+  {
+    "name": "Birdwatcher",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012593.jpg"
+  },
+  {
+    "name": "Chili Costume Fan",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012182.jpg"
+  },
+  {
+    "name": "Figure Skating Champion",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012186.jpg"
+  },
+  {
+    "name": "Forest Elf",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012188.jpg"
+  },
+  {
+    "name": "Horse and Groom",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg"
+  },
+  {
+    "name": "Night Protector",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012187.jpg"
+  },
+  {
+    "name": "Raccoon Costume Fan",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012190.jpg"
+  },
+  {
+    "name": "Robot Repair Tech",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012181.jpg"
+  },
+  {
+    "name": "Snow Guardian",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012184.jpg"
+  },
+  {
+    "name": "Space Creature",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012191.jpg"
+  },
+  {
+    "name": "Troubadour",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012183.jpg"
+  },
+  {
+    "name": "Wheelchair Racer",
+    "itemNum": "71032",
+    "series": "Series 22",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012192.jpg"
+  },
+  {
+    "name": "Cardboard Robot",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013079.jpg"
+  },
+  {
+    "name": "Holiday Elf",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000907.jpg"
+  },
+  {
+    "name": "Ferry Captain",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008252.jpg"
+  },
+  {
+    "name": "Green Dragon Costume",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013090.jpg"
+  },
+  {
+    "name": "Knight of the Yellow Castle",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013089.jpg"
+  },
+  {
+    "name": "Nutcracker",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013080.jpg"
+  },
+  {
+    "name": "Popcorn Costume",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013085.jpg"
+  },
+  {
+    "name": "Reindeer Costume",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013083.jpg"
+  },
+  {
+    "name": "Snowman",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-005758.jpg"
+  },
+  {
+    "name": "Sugar Fairy",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013081.jpg"
+  },
+  {
+    "name": "Turkey Costume",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013087.jpg"
+  },
+  {
+    "name": "Wolf Costume",
+    "itemNum": "71034",
+    "series": "Series 23",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013086.jpg"
+  },
+  {
+    "name": "Brown Astronaut and Spacebaby",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001014.jpg"
+  },
+  {
+    "name": "Carrot Mascot",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013452.jpg"
+  },
+  {
+    "name": "Conservationist",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013456.jpg"
+  },
+  {
+    "name": "Falconer",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-009690.jpg"
+  },
+  {
+    "name": "Football Referee",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011089.jpg"
+  },
+  {
+    "name": "Newspaper Kid",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013460.jpg"
+  },
+  {
+    "name": "Orc",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000191.jpg"
+  },
+  {
+    "name": "Potter",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000029.jpg"
+  },
+  {
+    "name": "Robot Warrior",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000695.jpg"
+  },
+  {
+    "name": "Rockin' Horse Rider",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013459.jpg"
+  },
+  {
+    "name": "Rococo Aristocrat",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-013458.jpg"
+  },
+  {
+    "name": "T-Rex Costume Fan",
+    "itemNum": "71037",
+    "series": "Series 24",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-001059.jpg"
+  },
+  {
+    "name": "E-Sports Gamer",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014654.jpg"
+  },
+  {
+    "name": "Mushroom Sprite",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014650.jpg"
+  },
+  {
+    "name": "Pet Groomer",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014644.jpg"
+  },
+  {
+    "name": "Film Noir Detective",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000888.jpg"
+  },
+  {
+    "name": "Train Kid",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014646.jpg"
+  },
+  {
+    "name": "Triceratops Costume Fan",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014648.jpg"
+  },
+  {
+    "name": "Goatherd",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014651.jpg"
+  },
+  {
+    "name": "Fitness Instructor",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000917.jpg"
+  },
+  {
+    "name": "Sprinter",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014652.jpg"
+  },
+  {
+    "name": "Fierce Barbarian",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014645.jpg"
+  },
+  {
+    "name": "Vampire Knight",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014653.jpg"
+  },
+  {
+    "name": "Harpy",
+    "itemNum": "71045",
+    "series": "Series 25",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-003119.jpg"
+  },
+  {
+    "name": "Alien Beetlezoid",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014951.jpg"
+  },
+  {
+    "name": "Alien Tourist",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014959.jpg"
+  },
+  {
+    "name": "Blacktron Mutant",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014949.jpg"
+  },
+  {
+    "name": "Flying Saucer Costume Fan",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014954.jpg"
+  },
+  {
+    "name": "Ice Planet Explorer",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014953.jpg"
+  },
+  {
+    "name": "Imposter",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014960.jpg"
+  },
+  {
+    "name": "M-Tron Powerlifter",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014957.jpg"
+  },
+  {
+    "name": "Nurse Android",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014956.jpg"
+  },
+  {
+    "name": "Orion",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014950.jpg"
+  },
+  {
+    "name": "Retro Space Heroine",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014958.jpg"
+  },
+  {
+    "name": "Robot Butler",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014952.jpg"
+  },
+  {
+    "name": "Spacewalking Astronaut",
+    "itemNum": "71046",
+    "series": "Series 26",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-014961.jpg"
+  },
+  {
+    "name": "Hamster Costume Fan",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015702.jpg"
+  },
+  {
+    "name": "Wolfpack Beastmaster",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015703.jpg"
+  },
+  {
+    "name": "Jetpack Racer",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015704.jpg"
+  },
+  {
+    "name": "Astronomer Kid",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015705.jpg"
+  },
+  {
+    "name": "Plush Toy Collector",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015706.jpg"
+  },
+  {
+    "name": "Longboarder",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015708.jpg"
+  },
+  {
+    "name": "Pterodactyl Costume Fan",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015707.jpg"
+  },
+  {
+    "name": "Bogeyman",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015709.jpg"
+  },
+  {
+    "name": "Cupid",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015710.jpg"
+  },
+  {
+    "name": "Pirate Quartermaster",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015711.jpg"
+  },
+  {
+    "name": "Cat Lover",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015712.jpg"
+  },
+  {
+    "name": "Steampunk Inventor",
+    "itemNum": "71048",
+    "series": "Series 27",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-015713.jpg"
+  },
+  {
+    "name": "Peacock",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-017050.jpg"
+  },
+  {
+    "name": "Fluffy Cat",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-011139.jpg"
+  },
+  {
+    "name": "Goldfish",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-017052.jpg"
+  },
+  {
+    "name": "Monkey",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-002073.jpg"
+  },
+  {
+    "name": "Frog",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012522.jpg"
+  },
+  {
+    "name": "Koala",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012839.jpg"
+  },
+  {
+    "name": "Dalmatian",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg"
+  },
+  {
+    "name": "Crocodile",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000370.jpg"
+  },
+  {
+    "name": "Dolphin",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-012400.jpg"
+  },
+  {
+    "name": "Cute Bunny",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-003225.jpg"
+  },
+  {
+    "name": "Lion",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-000184.jpg"
+  },
+  {
+    "name": "Parrot",
+    "itemNum": "71051",
+    "series": "Series 28",
+    "collected": true,
+    "img": "https://cdn.rebrickable.com/media/sets/fig-016082.jpg"
+  }
+]
