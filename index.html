@@ -155,8 +155,8 @@
     /* ── MAIN ── */
     main {
       padding: 32px;
-      max-width: 1600px;
-      margin: 0 auto;
+      flex: 1;
+      min-width: 0;
     }
 
     /* ── SERIES SECTION ── */
@@ -353,6 +353,216 @@
     /* ── UTILITY ── */
     .fig-card.hidden { display: none; }
     .series-section.hidden { display: none; }
+
+    /* ── APP BODY ── */
+    .app-body {
+      display: flex;
+      align-items: flex-start;
+    }
+
+    /* ── SIDEBAR ── */
+    .sidebar {
+      width: 220px;
+      min-width: 220px;
+      background: var(--black);
+      min-height: calc(100vh - 64px);
+      position: sticky;
+      top: 64px;
+      height: calc(100vh - 64px);
+      display: flex;
+      flex-direction: column;
+      transition: width 0.22s ease, min-width 0.22s ease;
+      overflow: hidden;
+      z-index: 50;
+      flex-shrink: 0;
+    }
+
+    .sidebar.collapsed {
+      width: 44px;
+      min-width: 44px;
+    }
+
+    .sidebar-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--white);
+      flex-shrink: 0;
+      align-self: flex-end;
+      transition: color 0.15s;
+    }
+
+    .sidebar-toggle:hover { color: var(--yellow); }
+
+    .sidebar-toggle svg {
+      width: 20px;
+      height: 20px;
+      flex-shrink: 0;
+      transition: transform 0.22s ease;
+    }
+
+    .sidebar.collapsed .sidebar-toggle svg {
+      transform: rotate(180deg);
+    }
+
+    .sidebar-content {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding-bottom: 24px;
+    }
+
+    .sidebar-content::-webkit-scrollbar { width: 4px; }
+    .sidebar-content::-webkit-scrollbar-track { background: transparent; }
+    .sidebar-content::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 2px; }
+
+    /* ── NAV GROUP ── */
+    .nav-group {
+      margin-top: 4px;
+    }
+
+    .nav-group-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px 6px;
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+      min-width: 0;
+    }
+
+    .nav-group-header:hover .nav-group-label { color: var(--yellow); }
+
+    .nav-group-label {
+      font-size: 0.65rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.45);
+      transition: color 0.15s;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    .nav-group-chevron {
+      margin-left: auto;
+      flex-shrink: 0;
+      color: rgba(255,255,255,0.3);
+      transition: transform 0.18s ease, color 0.15s;
+    }
+
+    .nav-group-chevron svg { width: 12px; height: 12px; display: block; }
+
+    .nav-group.collapsed .nav-group-chevron { transform: rotate(-90deg); }
+
+    .nav-group-items {
+      overflow: hidden;
+      transition: max-height 0.22s ease;
+    }
+
+    .nav-group.collapsed .nav-group-items {
+      max-height: 0 !important;
+    }
+
+    /* ── NAV ITEM ── */
+    .nav-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px 6px 22px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.12s;
+      border-left: 2px solid transparent;
+    }
+
+    .nav-item:hover {
+      background: rgba(255,255,255,0.07);
+    }
+
+    .nav-item.active {
+      border-left-color: var(--yellow);
+      background: rgba(255,237,0,0.08);
+    }
+
+    .nav-item-label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: rgba(255,255,255,0.75);
+      transition: color 0.12s;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      flex: 1;
+      min-width: 0;
+    }
+
+    .nav-item:hover .nav-item-label,
+    .nav-item.active .nav-item-label {
+      color: var(--white);
+    }
+
+    .nav-item-num {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.2);
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0;
+      font-weight: 900;
+      color: var(--black);
+      transition: width 0.22s ease, height 0.22s ease, font-size 0.22s ease, background 0.12s;
+      overflow: hidden;
+    }
+
+    .nav-item.active .nav-item-num {
+      background: var(--yellow);
+    }
+
+    .sidebar.collapsed .nav-item {
+      padding: 5px 0;
+      justify-content: center;
+    }
+
+    .sidebar.collapsed .nav-item-num {
+      width: 28px;
+      height: 28px;
+      font-size: 0.65rem;
+      background: rgba(255,255,255,0.12);
+    }
+
+    .sidebar.collapsed .nav-item.active .nav-item-num {
+      background: var(--yellow);
+    }
+
+    .sidebar.collapsed .nav-item-label {
+      display: none;
+    }
+
+    .sidebar.collapsed .nav-group-header {
+      display: none;
+    }
+
+    .sidebar.collapsed .nav-group-items {
+      max-height: none !important;
+    }
+
+    /* ── MAIN (within app-body) ── */
+    .app-body main {
+      flex: 1;
+      min-width: 0;
+      padding: 32px;
+      max-width: none;
+    }
   </style>
 </head>
 <body>
@@ -378,7 +588,17 @@
   </div>
 </header>
 
-<main id="main"></main>
+<div class="app-body">
+  <nav class="sidebar" id="sidebar">
+    <button class="sidebar-toggle" id="sidebar-toggle" title="Toggle navigation">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"/>
+      </svg>
+    </button>
+    <div class="sidebar-content" id="sidebar-content"></div>
+  </nav>
+  <main id="main"></main>
+</div>
 
 <script>
 (async () => {
@@ -392,10 +612,15 @@
   }
 
   const seriesOrder = [...seriesMap.keys()].sort((a, b) => {
-    const n = s => parseInt(s.replace(/\D/g, ''));
+    const groupA = getGroupName(a), groupB = getGroupName(b);
+    if (groupA !== groupB) return groupA.localeCompare(groupB);
+    const n = s => parseInt(s.replace(/\D/g, '')) || 0;
     return n(a) - n(b);
   });
 
+  function getGroupName(seriesName) {
+    return seriesName.replace(/\s*\d+$/, '').trim() || seriesName;
+  }
 
   const main = document.getElementById('main');
   const sections = new Map();
@@ -540,6 +765,98 @@
   }
 
   document.getElementById('search').addEventListener('input', applyFilters);
+
+  // ── SIDEBAR NAV ──
+  const sidebarContent = document.getElementById('sidebar-content');
+  const sidebar = document.getElementById('sidebar');
+  const sidebarToggle = document.getElementById('sidebar-toggle');
+
+  // Group series
+  const groups = new Map();
+  for (const s of seriesOrder) {
+    const g = getGroupName(s);
+    if (!groups.has(g)) groups.set(g, []);
+    groups.get(g).push(s);
+  }
+
+  const navItems = new Map(); // seriesName -> .nav-item el
+
+  for (const [groupName, seriesList] of groups) {
+    const groupEl = document.createElement('div');
+    groupEl.className = 'nav-group';
+
+    const headerEl = document.createElement('div');
+    headerEl.className = 'nav-group-header';
+    headerEl.innerHTML = `
+      <span class="nav-group-label">${groupName}</span>
+      <span class="nav-group-chevron">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="6 9 12 15 18 9"/>
+        </svg>
+      </span>
+    `;
+
+    const itemsEl = document.createElement('div');
+    itemsEl.className = 'nav-group-items';
+
+    for (const seriesName of seriesList) {
+      const numMatch = seriesName.match(/\d+$/);
+      const label = numMatch ? `${groupName} ${numMatch[0]}` : seriesName;
+
+      const num = numMatch ? numMatch[0] : '';
+      const item = document.createElement('div');
+      item.className = 'nav-item';
+      item.title = label;
+      item.innerHTML = `<span class="nav-item-num">${num}</span><span class="nav-item-label">${label}</span>`;
+      item.addEventListener('click', () => {
+        const section = sections.get(seriesName);
+        if (section) {
+          const top = section.getBoundingClientRect().top + window.scrollY - 64 - 16;
+          window.scrollTo({ top, behavior: 'smooth' });
+        }
+      });
+      navItems.set(seriesName, item);
+      itemsEl.appendChild(item);
+    }
+
+    // Set initial max-height for animation
+    const setItemsHeight = () => {
+      itemsEl.style.maxHeight = groupEl.classList.contains('collapsed') ? '0px' : itemsEl.scrollHeight + 'px';
+    };
+
+    headerEl.addEventListener('click', () => {
+      groupEl.classList.toggle('collapsed');
+      setItemsHeight();
+    });
+
+    groupEl.appendChild(headerEl);
+    groupEl.appendChild(itemsEl);
+    sidebarContent.appendChild(groupEl);
+
+    // Set initial height after DOM insert
+    requestAnimationFrame(() => {
+      itemsEl.style.maxHeight = itemsEl.scrollHeight + 'px';
+    });
+  }
+
+  // Sidebar collapse toggle
+  sidebarToggle.addEventListener('click', () => {
+    sidebar.classList.toggle('collapsed');
+  });
+
+  // Highlight active section on scroll
+  const observer = new IntersectionObserver((entries) => {
+    for (const entry of entries) {
+      if (entry.isIntersecting) {
+        const s = entry.target.dataset.series;
+        navItems.forEach((el, key) => el.classList.toggle('active', key === s));
+      }
+    }
+  }, { rootMargin: '-20% 0px -70% 0px', threshold: 0 });
+
+  for (const section of sections.values()) {
+    observer.observe(section);
+  }
 
   loadState();
   updateStats();
