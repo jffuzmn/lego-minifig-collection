@@ -605,35 +605,44 @@
   const res = await fetch('data.json');
   const data = await res.json();
 
+  // Key by "category:series" to avoid name collisions across categories
   const seriesMap = new Map();
   for (const fig of data) {
-    if (!seriesMap.has(fig.series)) seriesMap.set(fig.series, []);
-    seriesMap.get(fig.series).push(fig);
+    const key = `${fig.category}:${fig.series}`;
+    if (!seriesMap.has(key)) seriesMap.set(key, []);
+    seriesMap.get(key).push(fig);
+  }
+
+  const categoryOrder = ['Collectible Minifigs', 'Disney', 'BAM'];
+
+  function seriesSortValue(series) {
+    const m = series.match(/(\d+)/);
+    return m ? parseInt(m[1]) : series;
   }
 
   const seriesOrder = [...seriesMap.keys()].sort((a, b) => {
-    const groupA = getGroupName(a), groupB = getGroupName(b);
-    if (groupA !== groupB) return groupA.localeCompare(groupB);
-    const n = s => parseInt(s.replace(/\D/g, '')) || 0;
-    return n(a) - n(b);
+    const [catA, serA] = [a.slice(0, a.indexOf(':')), a.slice(a.indexOf(':') + 1)];
+    const [catB, serB] = [b.slice(0, b.indexOf(':')), b.slice(b.indexOf(':') + 1)];
+    const catDiff = categoryOrder.indexOf(catA) - categoryOrder.indexOf(catB);
+    if (catDiff !== 0) return catDiff;
+    const kA = seriesSortValue(serA), kB = seriesSortValue(serB);
+    if (typeof kA === 'number' && typeof kB === 'number') return kA - kB;
+    return String(kA).localeCompare(String(kB));
   });
-
-  function getGroupName(seriesName) {
-    return seriesName.replace(/\s*\d+$/, '').trim() || seriesName;
-  }
 
   const main = document.getElementById('main');
   const sections = new Map();
-  const cards = new Map();
+  // cards keyed by "category:series:name" for stable state storage
+  const cardsByStateKey = new Map();
 
-  let figIdx = 0;
-  for (const seriesName of seriesOrder) {
-    const figs = seriesMap.get(seriesName);
+  for (const key of seriesOrder) {
+    const figs = seriesMap.get(key);
+    const seriesName = key.slice(key.indexOf(':') + 1);
     const itemNum = figs[0].itemNum;
 
     const section = document.createElement('div');
     section.className = 'series-section';
-    section.dataset.series = seriesName;
+    section.dataset.series = key;
 
     const header = document.createElement('div');
     header.className = 'series-header';
@@ -641,9 +650,9 @@
       <span class="series-title">${seriesName}</span>
       <span class="series-item-num">#${itemNum}</span>
       <div class="series-progress">
-        <span class="series-progress-text" data-series-prog="${seriesName}">0/${figs.length}</span>
+        <span class="series-progress-text" data-series-prog="${key}">0/${figs.length}</span>
         <div class="series-progress-bar">
-          <div class="series-progress-fill" data-series-bar="${seriesName}" style="width:0%"></div>
+          <div class="series-progress-fill" data-series-bar="${key}" style="width:0%"></div>
         </div>
       </div>
     `;
@@ -653,16 +662,17 @@
     grid.className = 'figs-grid';
 
     for (const fig of figs) {
-      const idx = figIdx++;
+      const sk = `${fig.category}:${fig.series}:${fig.name}`;
       const card = document.createElement('div');
       card.className = 'fig-card' + (fig.collected ? ' collected' : '');
       card.dataset.name = fig.name.toLowerCase();
-      card.dataset.series = fig.series;
+      card.dataset.series = key;
       card.dataset.collected = fig.collected ? '1' : '0';
 
+      const hasImg = fig.img && fig.img !== 'string';
       card.innerHTML = `
         <div class="fig-img-wrap">
-          ${fig.img
+          ${hasImg
             ? `<img src="images/${fig.series.toLowerCase()}/${fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}.webp"
                     alt="${fig.name}"
                     loading="lazy"
@@ -686,28 +696,23 @@
         saveState();
       });
 
-      cards.set(idx, card);
+      cardsByStateKey.set(sk, { card, fig });
       grid.appendChild(card);
     }
 
     section.appendChild(grid);
     main.appendChild(section);
-    sections.set(seriesName, section);
+    sections.set(key, section);
   }
 
   function loadState() {
     try {
-      const saved = JSON.parse(localStorage.getItem('minifig-collection') || '{}');
-      let i = 0;
-      for (const seriesName of seriesOrder) {
-        for (const fig of seriesMap.get(seriesName)) {
-          if (saved[i] !== undefined) {
-            fig.collected = saved[i];
-            const card = cards.get(i);
-            card.dataset.collected = fig.collected ? '1' : '0';
-            card.classList.toggle('collected', fig.collected);
-          }
-          i++;
+      const saved = JSON.parse(localStorage.getItem('minifig-collection-v2') || '{}');
+      for (const [sk, { card, fig }] of cardsByStateKey) {
+        if (saved[sk] !== undefined) {
+          fig.collected = saved[sk];
+          card.dataset.collected = fig.collected ? '1' : '0';
+          card.classList.toggle('collected', fig.collected);
         }
       }
     } catch (e) {}
@@ -715,26 +720,22 @@
 
   function saveState() {
     const state = {};
-    let i = 0;
-    for (const seriesName of seriesOrder) {
-      for (const fig of seriesMap.get(seriesName)) {
-        state[i] = fig.collected;
-        i++;
-      }
+    for (const [sk, { fig }] of cardsByStateKey) {
+      state[sk] = fig.collected;
     }
-    localStorage.setItem('minifig-collection', JSON.stringify(state));
+    localStorage.setItem('minifig-collection-v2', JSON.stringify(state));
   }
 
   function updateStats() {
     let total = 0, collected = 0;
-    for (const seriesName of seriesOrder) {
-      const figs = seriesMap.get(seriesName);
+    for (const key of seriesOrder) {
+      const figs = seriesMap.get(key);
       const sc = figs.filter(f => f.collected).length;
       total += figs.length;
       collected += sc;
       const pct = figs.length ? (sc / figs.length * 100).toFixed(0) : 0;
-      const progEl = document.querySelector(`[data-series-prog="${seriesName}"]`);
-      const barEl = document.querySelector(`[data-series-bar="${seriesName}"]`);
+      const progEl = document.querySelector(`[data-series-prog="${key}"]`);
+      const barEl = document.querySelector(`[data-series-bar="${key}"]`);
       if (progEl) progEl.textContent = `${sc}/${figs.length}`;
       if (barEl) barEl.style.width = `${pct}%`;
     }
@@ -747,20 +748,17 @@
 
   function applyFilters() {
     const q = document.getElementById('search').value.toLowerCase().trim();
-
-    let i = 0;
-    for (const seriesName of seriesOrder) {
-      const section = sections.get(seriesName);
-      let sectionVisible = 0;
-
-      for (const fig of seriesMap.get(seriesName)) {
-        const card = cards.get(i++);
-        const visible = !q || fig.name.toLowerCase().includes(q);
-        card.classList.toggle('hidden', !visible);
-        if (visible) sectionVisible++;
+    for (const key of seriesOrder) {
+      const section = sections.get(key);
+      let visible = 0;
+      for (const fig of seriesMap.get(key)) {
+        const sk = `${fig.category}:${fig.series}:${fig.name}`;
+        const { card } = cardsByStateKey.get(sk);
+        const show = !q || fig.name.toLowerCase().includes(q);
+        card.classList.toggle('hidden', !show);
+        if (show) visible++;
       }
-
-      section.classList.toggle('hidden', sectionVisible === 0);
+      section.classList.toggle('hidden', visible === 0);
     }
   }
 
@@ -771,24 +769,24 @@
   const sidebar = document.getElementById('sidebar');
   const sidebarToggle = document.getElementById('sidebar-toggle');
 
-  // Group series
-  const groups = new Map();
-  for (const s of seriesOrder) {
-    const g = getGroupName(s);
-    if (!groups.has(g)) groups.set(g, []);
-    groups.get(g).push(s);
+  // Group keys by category
+  const categoryGroups = new Map();
+  for (const key of seriesOrder) {
+    const cat = key.slice(0, key.indexOf(':'));
+    if (!categoryGroups.has(cat)) categoryGroups.set(cat, []);
+    categoryGroups.get(cat).push(key);
   }
 
-  const navItems = new Map(); // seriesName -> .nav-item el
+  const navItems = new Map(); // key -> .nav-item el
 
-  for (const [groupName, seriesList] of groups) {
+  for (const [cat, keys] of categoryGroups) {
     const groupEl = document.createElement('div');
     groupEl.className = 'nav-group';
 
     const headerEl = document.createElement('div');
     headerEl.className = 'nav-group-header';
     headerEl.innerHTML = `
-      <span class="nav-group-label">${groupName}</span>
+      <span class="nav-group-label">${cat}</span>
       <span class="nav-group-chevron">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
           <polyline points="6 9 12 15 18 9"/>
@@ -799,27 +797,23 @@
     const itemsEl = document.createElement('div');
     itemsEl.className = 'nav-group-items';
 
-    for (const seriesName of seriesList) {
-      const numMatch = seriesName.match(/\d+$/);
-      const label = numMatch ? `${groupName} ${numMatch[0]}` : seriesName;
-
-      const num = numMatch ? numMatch[0] : '';
+    for (const key of keys) {
+      const seriesName = key.slice(key.indexOf(':') + 1);
       const item = document.createElement('div');
       item.className = 'nav-item';
-      item.title = label;
-      item.innerHTML = `<span class="nav-item-num">${num}</span><span class="nav-item-label">${label}</span>`;
+      item.title = seriesName;
+      item.innerHTML = `<span class="nav-item-num"></span><span class="nav-item-label">${seriesName}</span>`;
       item.addEventListener('click', () => {
-        const section = sections.get(seriesName);
+        const section = sections.get(key);
         if (section) {
           const top = section.getBoundingClientRect().top + window.scrollY - 64 - 16;
           window.scrollTo({ top, behavior: 'smooth' });
         }
       });
-      navItems.set(seriesName, item);
+      navItems.set(key, item);
       itemsEl.appendChild(item);
     }
 
-    // Set initial max-height for animation
     const setItemsHeight = () => {
       itemsEl.style.maxHeight = groupEl.classList.contains('collapsed') ? '0px' : itemsEl.scrollHeight + 'px';
     };
@@ -833,18 +827,15 @@
     groupEl.appendChild(itemsEl);
     sidebarContent.appendChild(groupEl);
 
-    // Set initial height after DOM insert
     requestAnimationFrame(() => {
       itemsEl.style.maxHeight = itemsEl.scrollHeight + 'px';
     });
   }
 
-  // Sidebar collapse toggle
   sidebarToggle.addEventListener('click', () => {
     sidebar.classList.toggle('collapsed');
   });
 
-  // Highlight active section on scroll
   const observer = new IntersectionObserver((entries) => {
     for (const entry of entries) {
       if (entry.isIntersecting) {
