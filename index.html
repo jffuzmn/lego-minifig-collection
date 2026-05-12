@@ -17,7 +17,6 @@
 
     :root {
       --yellow: #FFED00;
-      --yellow-dark: #e6d500;
       --red: #E3000B;
       --black: #000000;
       --white: #FFFFFF;
@@ -50,7 +49,6 @@
       z-index: 100;
       display: flex;
       align-items: stretch;
-      gap: 0;
       min-height: 64px;
     }
 
@@ -61,11 +59,7 @@
       border-right: 2px solid rgba(0,0,0,0.2);
     }
 
-    .header-logo {
-      height: 52px;
-      width: auto;
-      display: block;
-    }
+    .header-logo { height: 52px; width: auto; display: block; }
 
     .header-stats {
       display: flex;
@@ -90,9 +84,7 @@
       line-height: 1;
     }
 
-    .stat-value span {
-      color: var(--white);
-    }
+    .stat-value span { color: var(--white); }
 
     .header-progress {
       display: flex;
@@ -107,7 +99,6 @@
       background: rgba(255,255,255,0.3);
       border-radius: 4px;
       overflow: hidden;
-      border: none;
     }
 
     .progress-fill {
@@ -121,12 +112,10 @@
       margin-left: auto;
       display: flex;
       align-items: center;
-      gap: 10px;
       padding-left: 32px;
     }
 
-    input[type="search"],
-    select {
+    input[type="search"] {
       background: rgba(0,0,0,0.2);
       border: 2px solid rgba(0,0,0,0.3);
       color: var(--white);
@@ -136,33 +125,71 @@
       font-family: var(--font);
       font-weight: 700;
       outline: none;
-      cursor: pointer;
+      cursor: text;
+      width: 200px;
       transition: border-color 0.15s;
     }
 
-    input[type="search"] {
-      width: 200px;
-      cursor: text;
+    input[type="search"]::placeholder { color: rgba(255,255,255,0.5); }
+    input[type="search"]:focus { border-color: rgba(0,0,0,0.6); }
+
+    /* ── FILTER BAR ── */
+    .filter-bar {
+      background: var(--white);
+      border-bottom: 2px solid var(--black);
+      padding: 10px 32px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      position: sticky;
+      top: 64px;
+      z-index: 90;
     }
 
-    input[type="search"]::placeholder { color: rgba(255,255,255,0.5); }
+    .filter-pill {
+      padding: 5px 14px;
+      border-radius: 20px;
+      border: 2px solid var(--black);
+      background: transparent;
+      color: var(--black);
+      font-family: var(--font);
+      font-size: 0.72rem;
+      font-weight: 800;
+      cursor: pointer;
+      transition: background 0.12s, color 0.12s;
+      white-space: nowrap;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
 
-    input[type="search"]:focus,
-    select:focus { border-color: rgba(0,0,0,0.6); }
+    .filter-pill:hover { background: var(--black); color: var(--white); }
 
-    select option { background: var(--red); }
+    .filter-pill.active {
+      background: var(--yellow);
+      border-color: var(--black);
+      color: var(--black);
+      box-shadow: var(--shadow);
+    }
 
     /* ── MAIN ── */
-    main {
-      padding: 32px;
-      flex: 1;
-      min-width: 0;
+    main { padding: 32px; }
+
+    /* ── CATEGORY GROUP ── */
+    .category-group-header {
+      font-size: 0.65rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--text-muted);
+      padding: 32px 0 12px;
+      margin-bottom: 20px;
+      border-bottom: 2px solid var(--border-light);
     }
 
+    .category-group:first-child .category-group-header { padding-top: 0; }
+
     /* ── SERIES SECTION ── */
-    .series-section {
-      margin-bottom: 48px;
-    }
+    .series-section { margin-bottom: 48px; }
 
     .series-header {
       display: flex;
@@ -243,15 +270,8 @@
       box-shadow: var(--shadow);
     }
 
-    .fig-card:hover {
-      transform: translateY(-3px);
-      box-shadow: var(--shadow-hover);
-    }
-
-    .fig-card:active {
-      transform: translateY(0);
-      box-shadow: var(--shadow);
-    }
+    .fig-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
+    .fig-card:active { transform: translateY(0); box-shadow: var(--shadow); }
 
     .fig-card.collected {
       border-color: var(--collected-green);
@@ -259,9 +279,7 @@
       background: #f0faf4;
     }
 
-    .fig-card.collected:hover {
-      box-shadow: 0 4px 0 var(--collected-green);
-    }
+    .fig-card.collected:hover { box-shadow: 0 4px 0 var(--collected-green); }
 
     /* ── IMAGE ── */
     .fig-img-wrap {
@@ -275,17 +293,8 @@
       position: relative;
     }
 
-    .fig-img-wrap img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-
-    .fig-img-wrap .no-img {
-      font-size: 2.5rem;
-      opacity: 0.2;
-    }
+    .fig-img-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .fig-img-wrap .no-img { font-size: 2.5rem; opacity: 0.2; }
 
     /* ── COLLECTED BADGE ── */
     .collected-badge {
@@ -305,18 +314,9 @@
       transition: opacity 0.15s, transform 0.15s;
     }
 
-    .collected-badge svg {
-      width: 13px;
-      height: 13px;
-      fill: var(--white);
-    }
+    .collected-badge svg { width: 13px; height: 13px; fill: var(--white); }
+    .fig-card.collected .collected-badge { opacity: 1; transform: scale(1); }
 
-    .fig-card.collected .collected-badge {
-      opacity: 1;
-      transform: scale(1);
-    }
-
-    /* uncollected dim overlay */
     .fig-card:not(.collected) .fig-img-wrap::after {
       content: '';
       position: absolute;
@@ -326,10 +326,7 @@
     }
 
     /* ── CARD LABEL ── */
-    .fig-info {
-      padding: 8px 10px;
-      border-top: 2px solid var(--border-light);
-    }
+    .fig-info { padding: 8px 10px; border-top: 2px solid var(--border-light); }
 
     .fig-card.collected .fig-info {
       border-top-color: var(--collected-green);
@@ -346,223 +343,12 @@
       letter-spacing: 0.03em;
     }
 
-    .fig-card.collected .fig-name {
-      color: var(--collected-green);
-    }
+    .fig-card.collected .fig-name { color: var(--collected-green); }
 
     /* ── UTILITY ── */
     .fig-card.hidden { display: none; }
     .series-section.hidden { display: none; }
-
-    /* ── APP BODY ── */
-    .app-body {
-      display: flex;
-      align-items: flex-start;
-    }
-
-    /* ── SIDEBAR ── */
-    .sidebar {
-      width: 220px;
-      min-width: 220px;
-      background: var(--black);
-      min-height: calc(100vh - 64px);
-      position: sticky;
-      top: 64px;
-      height: calc(100vh - 64px);
-      display: flex;
-      flex-direction: column;
-      transition: width 0.22s ease, min-width 0.22s ease;
-      overflow: hidden;
-      z-index: 50;
-      flex-shrink: 0;
-    }
-
-    .sidebar.collapsed {
-      width: 44px;
-      min-width: 44px;
-    }
-
-    .sidebar-toggle {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 44px;
-      height: 44px;
-      background: none;
-      border: none;
-      cursor: pointer;
-      color: var(--white);
-      flex-shrink: 0;
-      align-self: flex-end;
-      transition: color 0.15s;
-    }
-
-    .sidebar-toggle:hover { color: var(--yellow); }
-
-    .sidebar-toggle svg {
-      width: 20px;
-      height: 20px;
-      flex-shrink: 0;
-      transition: transform 0.22s ease;
-    }
-
-    .sidebar.collapsed .sidebar-toggle svg {
-      transform: rotate(180deg);
-    }
-
-    .sidebar-content {
-      flex: 1;
-      overflow-y: auto;
-      overflow-x: hidden;
-      padding-bottom: 24px;
-    }
-
-    .sidebar-content::-webkit-scrollbar { width: 4px; }
-    .sidebar-content::-webkit-scrollbar-track { background: transparent; }
-    .sidebar-content::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 2px; }
-
-    /* ── NAV GROUP ── */
-    .nav-group {
-      margin-top: 4px;
-    }
-
-    .nav-group-header {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 14px 6px;
-      cursor: pointer;
-      user-select: none;
-      white-space: nowrap;
-      min-width: 0;
-    }
-
-    .nav-group-header:hover .nav-group-label { color: var(--yellow); }
-
-    .nav-group-label {
-      font-size: 0.65rem;
-      font-weight: 900;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      color: rgba(255,255,255,0.45);
-      transition: color 0.15s;
-      white-space: nowrap;
-      overflow: hidden;
-    }
-
-    .nav-group-chevron {
-      margin-left: auto;
-      flex-shrink: 0;
-      color: rgba(255,255,255,0.3);
-      transition: transform 0.18s ease, color 0.15s;
-    }
-
-    .nav-group-chevron svg { width: 12px; height: 12px; display: block; }
-
-    .nav-group.collapsed .nav-group-chevron { transform: rotate(-90deg); }
-
-    .nav-group-items {
-      overflow: hidden;
-      transition: max-height 0.22s ease;
-    }
-
-    .nav-group.collapsed .nav-group-items {
-      max-height: 0 !important;
-    }
-
-    /* ── NAV ITEM ── */
-    .nav-item {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 6px 14px 6px 22px;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: background 0.12s;
-      border-left: 2px solid transparent;
-    }
-
-    .nav-item:hover {
-      background: rgba(255,255,255,0.07);
-    }
-
-    .nav-item.active {
-      border-left-color: var(--yellow);
-      background: rgba(255,237,0,0.08);
-    }
-
-    .nav-item-label {
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: rgba(255,255,255,0.75);
-      transition: color 0.12s;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      flex: 1;
-      min-width: 0;
-    }
-
-    .nav-item:hover .nav-item-label,
-    .nav-item.active .nav-item-label {
-      color: var(--white);
-    }
-
-    .nav-item-num {
-      width: 6px;
-      height: 6px;
-      border-radius: 50%;
-      background: rgba(255,255,255,0.2);
-      flex-shrink: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0;
-      font-weight: 900;
-      color: var(--black);
-      transition: width 0.22s ease, height 0.22s ease, font-size 0.22s ease, background 0.12s;
-      overflow: hidden;
-    }
-
-    .nav-item.active .nav-item-num {
-      background: var(--yellow);
-    }
-
-    .sidebar.collapsed .nav-item {
-      padding: 5px 0;
-      justify-content: center;
-    }
-
-    .sidebar.collapsed .nav-item-num {
-      width: 28px;
-      height: 28px;
-      font-size: 0.65rem;
-      background: rgba(255,255,255,0.12);
-    }
-
-    .sidebar.collapsed .nav-item.active .nav-item-num {
-      background: var(--yellow);
-    }
-
-    .sidebar.collapsed .nav-item-label {
-      display: none;
-    }
-
-    .sidebar.collapsed .nav-group-header {
-      display: none;
-    }
-
-    .sidebar.collapsed .nav-group-items {
-      max-height: none !important;
-    }
-
-    /* ── MAIN (within app-body) ── */
-    .app-body main {
-      flex: 1;
-      min-width: 0;
-      padding: 32px;
-      max-width: none;
-    }
+    .category-group.hidden { display: none; }
   </style>
 </head>
 <body>
@@ -571,7 +357,6 @@
   <div class="header-brand">
     <img src="lego-logo.png" alt="LEGO Minifig Collection" class="header-logo" />
   </div>
-
   <div class="header-stats">
     <div>
       <div class="stat-label">Collected</div>
@@ -582,137 +367,179 @@
       <div class="progress-bar"><div class="progress-fill" id="global-progress" style="width:0%"></div></div>
     </div>
   </div>
-
   <div class="header-controls">
     <input type="search" id="search" placeholder="Search minifigs…" />
   </div>
 </header>
 
-<div class="app-body">
-  <nav class="sidebar" id="sidebar">
-    <button class="sidebar-toggle" id="sidebar-toggle" title="Toggle navigation">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-        <polyline points="15 18 9 12 15 6"/>
-      </svg>
-    </button>
-    <div class="sidebar-content" id="sidebar-content"></div>
-  </nav>
-  <main id="main"></main>
-</div>
+<div id="filter-bar" class="filter-bar"></div>
+
+<main id="main"></main>
 
 <script>
 (async () => {
   const res = await fetch('data.json');
   const data = await res.json();
 
-  // Key by "category:series" to avoid name collisions across categories
+  const CATEGORY_ORDER = [
+    'Collectible Minifigs', 'Disney', 'BAM',
+    'Animal Crossing', 'Toy Story', 'Spongebob',
+    'Spiderman', 'F1 Cars', 'Space Classic', 'Brick Body'
+  ];
+
+  // Only show categories that have data, in defined order
+  const allCats = new Set();
+  for (const fig of data) for (const cat of fig.categories) allCats.add(cat);
+  const categories = CATEGORY_ORDER.filter(c => allCats.has(c));
+  for (const c of allCats) if (!categories.includes(c)) categories.push(c);
+
+  // Build seriesMap: key = "category:series", fig appears in each of its categories
   const seriesMap = new Map();
   for (const fig of data) {
-    const key = `${fig.category}:${fig.series}`;
-    if (!seriesMap.has(key)) seriesMap.set(key, []);
-    seriesMap.get(key).push(fig);
+    for (const cat of fig.categories) {
+      const key = `${cat}:${fig.series}`;
+      if (!seriesMap.has(key)) seriesMap.set(key, []);
+      seriesMap.get(key).push(fig);
+    }
   }
 
-  const categoryOrder = ['Collectible Minifigs', 'Disney', 'BAM'];
-
-  function seriesSortValue(series) {
-    const m = series.match(/(\d+)/);
-    return m ? parseInt(m[1]) : series;
+  function seriesSortValue(s) {
+    const m = s.match(/(\d+)/);
+    return m ? parseInt(m[1]) : s;
   }
 
   const seriesOrder = [...seriesMap.keys()].sort((a, b) => {
-    const [catA, serA] = [a.slice(0, a.indexOf(':')), a.slice(a.indexOf(':') + 1)];
-    const [catB, serB] = [b.slice(0, b.indexOf(':')), b.slice(b.indexOf(':') + 1)];
-    const catDiff = categoryOrder.indexOf(catA) - categoryOrder.indexOf(catB);
+    const catA = a.slice(0, a.indexOf(':')), serA = a.slice(a.indexOf(':') + 1);
+    const catB = b.slice(0, b.indexOf(':')), serB = b.slice(b.indexOf(':') + 1);
+    const catDiff = categories.indexOf(catA) - categories.indexOf(catB);
     if (catDiff !== 0) return catDiff;
     const kA = seriesSortValue(serA), kB = seriesSortValue(serB);
     if (typeof kA === 'number' && typeof kB === 'number') return kA - kB;
     return String(kA).localeCompare(String(kB));
   });
 
+  // figToCards: for toggling all instances of a fig across categories
+  const figToCards = new WeakMap();
+  // sectionCards: for search filtering within a section
+  const sectionCards = new Map();
+
   const main = document.getElementById('main');
   const sections = new Map();
-  // cards keyed by "category:series:name" for stable state storage
-  const cardsByStateKey = new Map();
+  const categoryGroupEls = new Map();
 
-  for (const key of seriesOrder) {
-    const figs = seriesMap.get(key);
-    const seriesName = key.slice(key.indexOf(':') + 1);
-    const itemNum = figs[0].itemNum;
+  for (const cat of categories) {
+    const catKeys = seriesOrder.filter(k => k.slice(0, k.indexOf(':')) === cat);
+    if (!catKeys.length) continue;
 
-    const section = document.createElement('div');
-    section.className = 'series-section';
-    section.dataset.series = key;
+    const catGroup = document.createElement('div');
+    catGroup.className = 'category-group';
+    catGroup.dataset.category = cat;
 
-    const header = document.createElement('div');
-    header.className = 'series-header';
-    header.innerHTML = `
-      <span class="series-title">${seriesName}</span>
-      <span class="series-item-num">#${itemNum}</span>
-      <div class="series-progress">
-        <span class="series-progress-text" data-series-prog="${key}">0/${figs.length}</span>
-        <div class="series-progress-bar">
-          <div class="series-progress-fill" data-series-bar="${key}" style="width:0%"></div>
-        </div>
-      </div>
-    `;
-    section.appendChild(header);
+    const catHeader = document.createElement('div');
+    catHeader.className = 'category-group-header';
+    catHeader.textContent = cat;
+    catGroup.appendChild(catHeader);
 
-    const grid = document.createElement('div');
-    grid.className = 'figs-grid';
+    for (const key of catKeys) {
+      const figs = seriesMap.get(key);
+      const seriesName = key.slice(key.indexOf(':') + 1);
+      const itemNum = figs[0].itemNum;
 
-    for (const fig of figs) {
-      const sk = `${fig.category}:${fig.series}:${fig.name}`;
-      const card = document.createElement('div');
-      card.className = 'fig-card' + (fig.collected ? ' collected' : '');
-      card.dataset.name = fig.name.toLowerCase();
-      card.dataset.series = key;
-      card.dataset.collected = fig.collected ? '1' : '0';
-
-      const hasImg = fig.img && fig.img !== 'string';
-      card.innerHTML = `
-        <div class="fig-img-wrap">
-          ${hasImg
-            ? `<img src="images/${fig.series.toLowerCase()}/${fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}.webp"
-                    alt="${fig.name}"
-                    loading="lazy"
-                    onerror="this.onerror=null;this.src='${fig.img}'" />`
-            : `<span class="no-img">🧱</span>`
-          }
-          <div class="collected-badge">
-            <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+      const section = document.createElement('div');
+      section.className = 'series-section';
+      section.dataset.series = key;
+      section.innerHTML = `
+        <div class="series-header">
+          <span class="series-title">${seriesName}</span>
+          <span class="series-item-num">#${itemNum}</span>
+          <div class="series-progress">
+            <span class="series-progress-text" data-series-prog="${key}">0/${figs.length}</span>
+            <div class="series-progress-bar">
+              <div class="series-progress-fill" data-series-bar="${key}" style="width:0%"></div>
+            </div>
           </div>
-        </div>
-        <div class="fig-info">
-          <div class="fig-name">${fig.name}</div>
         </div>
       `;
 
-      card.addEventListener('click', () => {
-        fig.collected = !fig.collected;
-        card.dataset.collected = fig.collected ? '1' : '0';
-        card.classList.toggle('collected', fig.collected);
-        updateStats();
-        saveState();
-      });
+      const grid = document.createElement('div');
+      grid.className = 'figs-grid';
+      sectionCards.set(key, []);
 
-      cardsByStateKey.set(sk, { card, fig });
-      grid.appendChild(card);
+      for (const fig of figs) {
+        if (!figToCards.has(fig)) figToCards.set(fig, []);
+
+        const card = document.createElement('div');
+        card.className = 'fig-card' + (fig.collected ? ' collected' : '');
+        card.dataset.name = fig.name.toLowerCase();
+        card.dataset.collected = fig.collected ? '1' : '0';
+
+        const hasImg = fig.img && fig.img !== 'string';
+        card.innerHTML = `
+          <div class="fig-img-wrap">
+            ${hasImg
+              ? `<img src="images/${fig.series.toLowerCase()}/${fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}.webp"
+                      alt="${fig.name}" loading="lazy"
+                      onerror="this.onerror=null;this.src='${fig.img}'" />`
+              : `<span class="no-img">🧱</span>`
+            }
+            <div class="collected-badge">
+              <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+          </div>
+          <div class="fig-info"><div class="fig-name">${fig.name}</div></div>
+        `;
+
+        card.addEventListener('click', () => {
+          fig.collected = !fig.collected;
+          for (const c of figToCards.get(fig)) {
+            c.dataset.collected = fig.collected ? '1' : '0';
+            c.classList.toggle('collected', fig.collected);
+          }
+          updateStats();
+          saveState();
+        });
+
+        figToCards.get(fig).push(card);
+        sectionCards.get(key).push({ fig, card });
+        grid.appendChild(card);
+      }
+
+      section.appendChild(grid);
+      catGroup.appendChild(section);
+      sections.set(key, section);
     }
 
-    section.appendChild(grid);
-    main.appendChild(section);
-    sections.set(key, section);
+    main.appendChild(catGroup);
+    categoryGroupEls.set(cat, catGroup);
   }
+
+  // ── STATE ──
+  // Key is category-independent so multi-category figs share one state entry
+  function stateKey(fig) { return `${fig.series}:${fig.name}`; }
 
   function loadState() {
     try {
-      const saved = JSON.parse(localStorage.getItem('minifig-collection-v2') || '{}');
-      for (const [sk, { card, fig }] of cardsByStateKey) {
+      // Migrate v2 (category:series:name) → v3 (series:name)
+      const v2raw = localStorage.getItem('minifig-collection-v2');
+      if (v2raw) {
+        const v2 = JSON.parse(v2raw);
+        const migrated = {};
+        for (const [k, v] of Object.entries(v2)) {
+          migrated[k.slice(k.indexOf(':') + 1)] = v;
+        }
+        localStorage.setItem('minifig-collection-v3', JSON.stringify(migrated));
+        localStorage.removeItem('minifig-collection-v2');
+      }
+
+      const saved = JSON.parse(localStorage.getItem('minifig-collection-v3') || '{}');
+      for (const fig of data) {
+        const sk = stateKey(fig);
         if (saved[sk] !== undefined) {
           fig.collected = saved[sk];
-          card.dataset.collected = fig.collected ? '1' : '0';
-          card.classList.toggle('collected', fig.collected);
+          for (const c of (figToCards.get(fig) || [])) {
+            c.dataset.collected = fig.collected ? '1' : '0';
+            c.classList.toggle('collected', fig.collected);
+          }
         }
       }
     } catch (e) {}
@@ -720,25 +547,24 @@
 
   function saveState() {
     const state = {};
-    for (const [sk, { fig }] of cardsByStateKey) {
-      state[sk] = fig.collected;
-    }
-    localStorage.setItem('minifig-collection-v2', JSON.stringify(state));
+    for (const fig of data) state[stateKey(fig)] = fig.collected;
+    localStorage.setItem('minifig-collection-v3', JSON.stringify(state));
   }
 
+  // ── STATS — count each unique fig once ──
   function updateStats() {
-    let total = 0, collected = 0;
-    for (const key of seriesOrder) {
-      const figs = seriesMap.get(key);
+    const total = data.length;
+    const collected = data.filter(f => f.collected).length;
+
+    for (const [key, figs] of seriesMap) {
       const sc = figs.filter(f => f.collected).length;
-      total += figs.length;
-      collected += sc;
       const pct = figs.length ? (sc / figs.length * 100).toFixed(0) : 0;
       const progEl = document.querySelector(`[data-series-prog="${key}"]`);
       const barEl = document.querySelector(`[data-series-bar="${key}"]`);
       if (progEl) progEl.textContent = `${sc}/${figs.length}`;
       if (barEl) barEl.style.width = `${pct}%`;
     }
+
     document.getElementById('stat-collected').textContent = collected;
     document.getElementById('stat-total').textContent = total;
     const pct = total ? (collected / total * 100).toFixed(1) : 0;
@@ -746,107 +572,45 @@
     document.getElementById('global-progress').style.width = pct + '%';
   }
 
+  // ── FILTER BAR ──
+  const filterBar = document.getElementById('filter-bar');
+  let activeCategory = 'all';
+
+  [['all', 'All'], ...categories.map(c => [c, c])].forEach(([val, label]) => {
+    const pill = document.createElement('button');
+    pill.className = 'filter-pill' + (val === 'all' ? ' active' : '');
+    pill.textContent = label;
+    pill.dataset.category = val;
+    filterBar.appendChild(pill);
+  });
+
+  filterBar.addEventListener('click', e => {
+    const pill = e.target.closest('.filter-pill');
+    if (!pill) return;
+    activeCategory = pill.dataset.category;
+    filterBar.querySelectorAll('.filter-pill').forEach(p => p.classList.toggle('active', p === pill));
+    applyFilters();
+  });
+
+  document.getElementById('search').addEventListener('input', applyFilters);
+
   function applyFilters() {
     const q = document.getElementById('search').value.toLowerCase().trim();
-    for (const key of seriesOrder) {
+
+    for (const [cat, groupEl] of categoryGroupEls) {
+      groupEl.classList.toggle('hidden', activeCategory !== 'all' && activeCategory !== cat);
+    }
+
+    for (const [key, pairs] of sectionCards) {
       const section = sections.get(key);
       let visible = 0;
-      for (const fig of seriesMap.get(key)) {
-        const sk = `${fig.category}:${fig.series}:${fig.name}`;
-        const { card } = cardsByStateKey.get(sk);
+      for (const { fig, card } of pairs) {
         const show = !q || fig.name.toLowerCase().includes(q);
         card.classList.toggle('hidden', !show);
         if (show) visible++;
       }
       section.classList.toggle('hidden', visible === 0);
     }
-  }
-
-  document.getElementById('search').addEventListener('input', applyFilters);
-
-  // ── SIDEBAR NAV ──
-  const sidebarContent = document.getElementById('sidebar-content');
-  const sidebar = document.getElementById('sidebar');
-  const sidebarToggle = document.getElementById('sidebar-toggle');
-
-  // Group keys by category
-  const categoryGroups = new Map();
-  for (const key of seriesOrder) {
-    const cat = key.slice(0, key.indexOf(':'));
-    if (!categoryGroups.has(cat)) categoryGroups.set(cat, []);
-    categoryGroups.get(cat).push(key);
-  }
-
-  const navItems = new Map(); // key -> .nav-item el
-
-  for (const [cat, keys] of categoryGroups) {
-    const groupEl = document.createElement('div');
-    groupEl.className = 'nav-group';
-
-    const headerEl = document.createElement('div');
-    headerEl.className = 'nav-group-header';
-    headerEl.innerHTML = `
-      <span class="nav-group-label">${cat}</span>
-      <span class="nav-group-chevron">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-          <polyline points="6 9 12 15 18 9"/>
-        </svg>
-      </span>
-    `;
-
-    const itemsEl = document.createElement('div');
-    itemsEl.className = 'nav-group-items';
-
-    for (const key of keys) {
-      const seriesName = key.slice(key.indexOf(':') + 1);
-      const item = document.createElement('div');
-      item.className = 'nav-item';
-      item.title = seriesName;
-      item.innerHTML = `<span class="nav-item-num"></span><span class="nav-item-label">${seriesName}</span>`;
-      item.addEventListener('click', () => {
-        const section = sections.get(key);
-        if (section) {
-          const top = section.getBoundingClientRect().top + window.scrollY - 64 - 16;
-          window.scrollTo({ top, behavior: 'smooth' });
-        }
-      });
-      navItems.set(key, item);
-      itemsEl.appendChild(item);
-    }
-
-    const setItemsHeight = () => {
-      itemsEl.style.maxHeight = groupEl.classList.contains('collapsed') ? '0px' : itemsEl.scrollHeight + 'px';
-    };
-
-    headerEl.addEventListener('click', () => {
-      groupEl.classList.toggle('collapsed');
-      setItemsHeight();
-    });
-
-    groupEl.appendChild(headerEl);
-    groupEl.appendChild(itemsEl);
-    sidebarContent.appendChild(groupEl);
-
-    requestAnimationFrame(() => {
-      itemsEl.style.maxHeight = itemsEl.scrollHeight + 'px';
-    });
-  }
-
-  sidebarToggle.addEventListener('click', () => {
-    sidebar.classList.toggle('collapsed');
-  });
-
-  const observer = new IntersectionObserver((entries) => {
-    for (const entry of entries) {
-      if (entry.isIntersecting) {
-        const s = entry.target.dataset.series;
-        navItems.forEach((el, key) => el.classList.toggle('active', key === s));
-      }
-    }
-  }, { rootMargin: '-20% 0px -70% 0px', threshold: 0 });
-
-  for (const section of sections.values()) {
-    observer.observe(section);
   }
 
   loadState();

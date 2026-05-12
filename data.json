@@ -5,7 +5,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001511.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cheerleader",
@@ -13,7 +15,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001074.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Circus Clown",
@@ -21,7 +25,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001081.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cowboy",
@@ -29,7 +35,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000893.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Deep Sea Diver",
@@ -37,7 +45,9 @@
     "series": "Series 1",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001189.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Demolition Dummy",
@@ -45,7 +55,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001048.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Forestman",
@@ -53,7 +65,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001187.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Magician",
@@ -61,7 +75,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001061.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ninja",
@@ -69,7 +85,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000892.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Nurse",
@@ -77,7 +95,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000891.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Robot",
@@ -85,7 +105,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000695.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Skater",
@@ -93,7 +115,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000890.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spaceman",
@@ -101,7 +125,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001098.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Super Wrestler",
@@ -109,7 +135,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001123.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tribal hunter",
@@ -117,7 +145,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001070.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Zombie",
@@ -125,7 +155,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001182.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Disco Dude",
@@ -133,7 +165,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000896.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Explorer",
@@ -141,7 +175,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001288.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Karate Master",
@@ -149,7 +185,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000905.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lifeguard",
@@ -157,7 +195,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000201.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Maraca Man",
@@ -165,7 +205,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001230.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mime",
@@ -173,7 +215,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008409.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pharaoh",
@@ -181,7 +225,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001320.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pop Star",
@@ -189,7 +235,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000037.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ringmaster",
@@ -197,7 +245,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001157.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Skier",
@@ -205,7 +255,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001337.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spartan Warrior",
@@ -213,7 +265,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001220.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Surfer",
@@ -221,7 +275,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000046.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Traffic Cop",
@@ -229,7 +285,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001186.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Vampire",
@@ -237,7 +295,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001223.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Weight Lifter",
@@ -245,7 +305,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012442.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Witch",
@@ -253,7 +315,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-003310.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hula Dancer",
@@ -261,7 +325,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001326.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tribal Chief",
@@ -269,7 +335,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000899.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Samurai Warrior",
@@ -277,7 +345,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001215.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tennis Player",
@@ -285,7 +355,9 @@
     "series": "Series 3",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000901.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sumo Wrestler",
@@ -293,7 +365,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000117.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Baseball Player",
@@ -301,7 +375,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000904.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fisherman",
@@ -309,7 +385,9 @@
     "series": "Series 3",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-016375.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Elf",
@@ -317,7 +395,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000907.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rapper",
@@ -325,7 +405,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000903.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Space Alien",
@@ -333,7 +415,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001156.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gorilla Suit Guy",
@@ -341,7 +425,9 @@
     "series": "Series 3",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000902.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Race Car Driver",
@@ -349,7 +435,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000024.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mummy",
@@ -357,7 +445,9 @@
     "series": "Series 3",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000900.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Snowboarder",
@@ -365,7 +455,9 @@
     "series": "Series 3",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001216.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Space Villain",
@@ -373,7 +465,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001217.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pilot",
@@ -381,7 +475,9 @@
     "series": "Series 3",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000898.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Artist",
@@ -389,7 +485,9 @@
     "series": "Series 4",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000197.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Crazy Scientist",
@@ -397,7 +495,9 @@
     "series": "Series 4",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000036.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hazmat Guy",
@@ -405,7 +505,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000923.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hockey Player",
@@ -413,7 +515,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000177.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ice Skater",
@@ -421,7 +525,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000909.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Kimono Girl",
@@ -429,7 +535,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008410.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lawn Gnome",
@@ -437,7 +545,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000910.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "The Monster",
@@ -445,7 +555,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000914.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Musketeer",
@@ -453,7 +565,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000911.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Punk Rocker",
@@ -461,7 +575,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001219.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sailor",
@@ -469,7 +585,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000915.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Street Skater",
@@ -477,7 +595,9 @@
     "series": "Series 4",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000031.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Soccer Player",
@@ -485,7 +605,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000176.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Surfer Girl",
@@ -493,7 +615,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000912.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Viking",
@@ -501,7 +625,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000913.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Werewolf",
@@ -509,7 +635,9 @@
     "series": "Series 4",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000204.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Boxer",
@@ -517,7 +645,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000919.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cave Woman",
@@ -525,7 +655,9 @@
     "series": "Series 5",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000922.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Detective",
@@ -533,7 +665,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000888.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Egyptian Queen",
@@ -541,7 +675,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008411.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Evil Dwarf",
@@ -549,7 +685,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000926.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fitness Instructor",
@@ -557,7 +695,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000917.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gangster",
@@ -565,7 +705,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000927.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gladiator",
@@ -573,7 +715,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000366.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Graduate",
@@ -581,7 +725,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000916.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lizard Man",
@@ -589,7 +735,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000499.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lumberjack",
@@ -597,7 +745,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000965.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ice Fisherman",
@@ -605,7 +755,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001322.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Royal Guard",
@@ -613,7 +765,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012447.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Small Clown",
@@ -621,7 +775,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000925.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Snowboarder Guy",
@@ -629,7 +785,9 @@
     "series": "Series 5",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000928.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Zookeeper",
@@ -637,7 +795,9 @@
     "series": "Series 5",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000924.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bandit",
@@ -645,7 +805,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001149.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Butcher",
@@ -653,7 +815,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000918.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Classic Alien",
@@ -661,7 +825,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000920.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Clockwork Robot",
@@ -669,7 +835,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001221.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Genie",
@@ -677,7 +845,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000538.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Flamenco Dancer",
@@ -685,7 +855,9 @@
     "series": "Series 6",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008415.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Highland Battler",
@@ -693,7 +865,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000416.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Intergalactic Girl",
@@ -701,7 +875,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000931.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lady Liberty",
@@ -709,7 +885,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-005985.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Leprechaun",
@@ -717,7 +895,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001020.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mechanic",
@@ -725,7 +905,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000932.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Minotaur",
@@ -733,7 +915,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001003.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Roman Soldier",
@@ -741,7 +925,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001005.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Skater Girl",
@@ -749,7 +935,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000930.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sleepyhead",
@@ -757,7 +945,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001146.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Surgeon",
@@ -765,7 +955,9 @@
     "series": "Series 6",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000929.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Aztec Warrior",
@@ -773,7 +965,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000572.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bagpiper",
@@ -781,7 +975,9 @@
     "series": "Series 7",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000938.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bride",
@@ -789,7 +985,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008320.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bunny Suit Guy",
@@ -797,7 +995,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000936.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Computer Programmer",
@@ -805,7 +1005,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000941.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Daredevil",
@@ -813,7 +1015,9 @@
     "series": "Series 7",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000241.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Evil Knight",
@@ -821,7 +1025,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001489.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Galaxy Patrol",
@@ -829,7 +1035,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000939.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Grandma Visitor",
@@ -837,7 +1045,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000942.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hippie",
@@ -845,7 +1055,9 @@
     "series": "Series 7",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000934.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Jungle Boy",
@@ -853,7 +1065,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000935.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ocean King",
@@ -861,7 +1075,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000937.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rocker Girl",
@@ -869,7 +1085,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000171.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Swimming Champion",
@@ -877,7 +1095,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001325.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tennis Ace",
@@ -885,7 +1105,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000940.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Viking Woman",
@@ -893,7 +1115,9 @@
     "series": "Series 7",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008770.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Evil Robot",
@@ -901,7 +1125,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001306.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Conquistador",
@@ -909,7 +1135,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000025.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lederhosen Guy",
@@ -917,7 +1145,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001222.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cowgirl",
@@ -925,7 +1155,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000589.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Football Player",
@@ -933,7 +1165,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000459.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Diver",
@@ -941,7 +1175,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001327.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Downhill Skier",
@@ -949,7 +1185,9 @@
     "series": "Series 8",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001329.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Businessman",
@@ -957,7 +1195,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000951.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fairy",
@@ -965,7 +1205,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000603.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Santa",
@@ -973,7 +1215,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001208.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Vampire Bat",
@@ -981,7 +1225,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000944.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "DJ",
@@ -989,7 +1235,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001224.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Red Cheerleader",
@@ -997,7 +1245,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001064.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "The Thespian",
@@ -1005,7 +1255,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pirate Captain",
@@ -1013,7 +1265,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001071.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Alien Villainess",
@@ -1021,7 +1275,9 @@
     "series": "Series 8",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008772.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Waiter",
@@ -1029,7 +1285,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000066.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cyclops",
@@ -1037,7 +1295,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000615.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hollywood Starlet",
@@ -1045,7 +1305,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008775.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Heroic Knight",
@@ -1053,7 +1315,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000491.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Roman Emperor",
@@ -1061,7 +1325,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000885.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Policeman",
@@ -1069,7 +1335,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000947.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Chicken Suit Guy",
@@ -1077,7 +1345,9 @@
     "series": "Series 9",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000022.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Roller Derby Girl",
@@ -1085,7 +1355,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001001.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fortune Teller",
@@ -1093,7 +1365,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008774.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Judge",
@@ -1101,7 +1375,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000946.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Alien Avenger",
@@ -1109,7 +1385,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000945.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mermaid",
@@ -1117,7 +1395,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000110.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Battle Mech",
@@ -1125,7 +1405,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000948.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mr. Good and Evil",
@@ -1133,7 +1415,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000502.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Forest Maiden",
@@ -1141,7 +1425,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008773.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Plumber",
@@ -1149,7 +1435,9 @@
     "series": "Series 9",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000949.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Librarian",
@@ -1157,7 +1445,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000950.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Medusa",
@@ -1165,7 +1455,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000651.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Roman Commander",
@@ -1173,7 +1465,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000952.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Warrior Woman",
@@ -1181,7 +1475,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000023.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tomahawk Warrior",
@@ -1189,7 +1485,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000047.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Skydiver",
@@ -1197,7 +1495,9 @@
     "series": "Series 10",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001339.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bumblebee Girl",
@@ -1205,7 +1505,9 @@
     "series": "Series 10",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000955.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Grandpa",
@@ -1213,7 +1515,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000956.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Paintballer",
@@ -1221,7 +1525,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008252.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sea Captain",
@@ -1229,7 +1535,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001016.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sad Clown",
@@ -1237,7 +1545,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000698.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Revolutionary Soldier",
@@ -1245,7 +1555,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000957.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Baseball Fielder",
@@ -1253,7 +1565,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000708.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Trendsetter",
@@ -1261,7 +1575,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000953.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Decorator",
@@ -1269,7 +1585,9 @@
     "series": "Series 10",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001015.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Motorcycle Mechanic",
@@ -1277,7 +1595,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000958.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mr. Gold",
@@ -1285,7 +1605,9 @@
     "series": "Series 10",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000825.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Yeti",
@@ -1293,7 +1615,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000082.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Evil Mech",
@@ -1301,7 +1625,9 @@
     "series": "Series 11",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000973.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Welder",
@@ -1309,7 +1635,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000966.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lady Robot",
@@ -1317,7 +1645,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000543.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Saxophone Player",
@@ -1325,7 +1655,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000536.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Constable",
@@ -1333,7 +1665,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000963.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Holiday Elf",
@@ -1341,7 +1675,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000960.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pretzel Girl",
@@ -1349,7 +1685,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000080.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Scarecrow",
@@ -1357,7 +1695,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001019.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mountain Climber",
@@ -1365,7 +1705,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000518.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Grandma",
@@ -1373,7 +1715,9 @@
     "series": "Series 11",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001017.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Island Warrior",
@@ -1381,7 +1725,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000968.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gingerbread Man",
@@ -1389,7 +1735,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000964.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Barbarian",
@@ -1397,7 +1745,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000961.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Diner Waitress",
@@ -1405,7 +1755,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000959.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Scientist",
@@ -1413,7 +1765,9 @@
     "series": "Series 11",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000962.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Space Miner",
@@ -1421,7 +1775,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000255.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Battle Goddess",
@@ -1429,7 +1785,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000378.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wizard",
@@ -1437,7 +1795,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008777.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Dino Tracker",
@@ -1445,7 +1805,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000551.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Swashbuckler",
@@ -1453,7 +1815,9 @@
     "series": "Series 12",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000583.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Jester",
@@ -1461,7 +1825,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000579.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Piggy Guy",
@@ -1469,7 +1835,9 @@
     "series": "Series 12",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001141.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hun Warrior",
@@ -1477,7 +1845,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000592.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fairytale Princess",
@@ -1485,7 +1855,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008776.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pizza Delivery Man",
@@ -1493,7 +1865,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001237.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Video Game Guy",
@@ -1501,7 +1875,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000089.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spooky Girl",
@@ -1509,7 +1885,9 @@
     "series": "Series 12",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001238.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Prospector",
@@ -1517,7 +1895,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001239.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Genie Girl",
@@ -1525,7 +1905,9 @@
     "series": "Series 12",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001241.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rock Star",
@@ -1533,7 +1915,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001240.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lifeguard",
@@ -1541,7 +1925,9 @@
     "series": "Series 12",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000201.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Galaxy Trooper",
@@ -1549,7 +1935,9 @@
     "series": "Series 13",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001356.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Alien Trooper",
@@ -1557,7 +1945,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001331.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Evil Wizard",
@@ -1565,7 +1955,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008779.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "King",
@@ -1573,7 +1965,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001314.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Goblin",
@@ -1581,7 +1975,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001319.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lady Cyclops",
@@ -1589,7 +1985,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001353.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Snake Charmer",
@@ -1597,7 +1995,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001318.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Paleontologist",
@@ -1605,7 +2005,9 @@
     "series": "Series 13",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001358.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Carpenter",
@@ -1613,7 +2015,9 @@
     "series": "Series 13",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001338.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hot Dog Guy",
@@ -1621,7 +2025,9 @@
     "series": "Series 13",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001350.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sheriff",
@@ -1629,7 +2035,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001316.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Samurai",
@@ -1637,7 +2045,9 @@
     "series": "Series 13",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001344.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Disco Diva",
@@ -1645,7 +2055,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001347.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Unicorn Girl",
@@ -1653,7 +2065,9 @@
     "series": "Series 13",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001317.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fencer",
@@ -1661,7 +2075,9 @@
     "series": "Series 13",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001340.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Egyptian Warrior",
@@ -1669,7 +2085,9 @@
     "series": "Series 13",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001336.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Monster Scientist",
@@ -1677,7 +2095,9 @@
     "series": "Series 14",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001438.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Monster Rocker",
@@ -1685,7 +2105,9 @@
     "series": "Series 14",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001466.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Zombie Businessman",
@@ -1693,7 +2115,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001467.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Plant Monster",
@@ -1701,7 +2125,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001446.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Skeleton Guy",
@@ -1709,7 +2135,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001464.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tiger Woman",
@@ -1717,7 +2145,9 @@
     "series": "Series 14",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001459.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spider Lady",
@@ -1725,7 +2155,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-006437.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wolf Guy",
@@ -1733,7 +2165,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001432.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wacky Witch",
@@ -1741,7 +2175,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001444.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Zombie Cheerleader",
@@ -1749,7 +2185,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001456.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Zombie Pirate",
@@ -1757,7 +2195,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001436.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fly Monster",
@@ -1765,7 +2205,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001448.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gargoyle",
@@ -1773,7 +2215,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001462.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Banshee",
@@ -1781,7 +2225,9 @@
     "series": "Series 14",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001469.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spectre",
@@ -1789,7 +2235,9 @@
     "series": "Series 14",
     "collected": false,
     "img": null,
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Square Foot",
@@ -1797,7 +2245,9 @@
     "series": "Series 14",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001470.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Farmer",
@@ -1805,7 +2255,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001012.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Faun",
@@ -1813,7 +2265,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001452.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tribal Woman",
@@ -1821,7 +2275,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001021.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Shark Suit Guy",
@@ -1829,7 +2285,9 @@
     "series": "Series 15",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001355.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Queen",
@@ -1837,7 +2295,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001052.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Animal Control",
@@ -1845,7 +2305,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001352.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Jewel Thief",
@@ -1853,7 +2315,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001049.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ballerina",
@@ -1861,7 +2325,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001463.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Flying Warrior",
@@ -1869,7 +2335,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001022.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Frightening Knight",
@@ -1877,7 +2345,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001465.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wrestling Champion",
@@ -1885,7 +2355,9 @@
     "series": "Series 15",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001349.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Clumsy Guy",
@@ -1893,7 +2365,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001460.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Kendo Fighter",
@@ -1901,7 +2375,9 @@
     "series": "Series 15",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001034.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Astronaut",
@@ -1909,7 +2385,9 @@
     "series": "Series 15",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001014.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Laser Mech",
@@ -1917,7 +2395,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001037.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Janitor",
@@ -1925,7 +2405,9 @@
     "series": "Series 15",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001351.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ice Queen",
@@ -1933,7 +2415,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008789.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cute Little Devil",
@@ -1941,7 +2425,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001256.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spooky Boy",
@@ -1949,7 +2435,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001259.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Babysitter",
@@ -1957,7 +2445,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008788.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spy",
@@ -1965,7 +2455,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001270.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Banana Guy",
@@ -1973,7 +2465,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001271.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mariachi",
@@ -1981,7 +2475,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001269.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Penguin Boy",
@@ -1989,7 +2485,9 @@
     "series": "Series 16",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001262.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wildlife Photographer",
@@ -1997,7 +2495,9 @@
     "series": "Series 16",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001263.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Kickboxer",
@@ -2005,7 +2505,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001265.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rogue",
@@ -2013,7 +2515,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001264.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cyborg",
@@ -2021,7 +2525,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001253.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hiker",
@@ -2029,7 +2535,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001261.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Desert Warrior",
@@ -2037,7 +2545,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001248.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Scallywag Pirate",
@@ -2045,7 +2555,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001267.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Dog Show Winner",
@@ -2053,7 +2565,9 @@
     "series": "Series 16",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001266.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pro Surfer",
@@ -2061,7 +2575,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001610.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gourmet Chef",
@@ -2069,7 +2585,9 @@
     "series": "Series 17",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001599.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hot Dog Vendor",
@@ -2077,7 +2595,9 @@
     "series": "Series 17",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001604.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Elf Maiden",
@@ -2085,7 +2605,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008790.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Circus Strongman",
@@ -2093,7 +2615,9 @@
     "series": "Series 17",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Yuppie",
@@ -2101,7 +2625,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001602.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Veterinarian",
@@ -2109,7 +2635,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001612.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Connoisseur",
@@ -2117,7 +2645,9 @@
     "series": "Series 17",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001615.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Butterfly Girl",
@@ -2125,7 +2655,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001619.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Roman Gladiator",
@@ -2133,7 +2665,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001613.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Corn Cob Guy",
@@ -2141,7 +2675,9 @@
     "series": "Series 17",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001600.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Retro Space Hero",
@@ -2149,7 +2685,9 @@
     "series": "Series 17",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001603.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Dance Instructor",
@@ -2157,7 +2695,9 @@
     "series": "Series 17",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001616.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Battle Dwarf",
@@ -2165,7 +2705,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001614.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rocket Boy",
@@ -2173,7 +2715,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001598.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Highwayman",
@@ -2181,7 +2725,9 @@
     "series": "Series 17",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001601.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "LEGO Brick Suit Guy",
@@ -2189,7 +2735,9 @@
     "series": "Series 18",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001738.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "1978 Police Officer",
@@ -2197,7 +2745,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001744.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Elephant Costume Girl",
@@ -2205,7 +2755,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001737.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Firework Guy",
@@ -2213,7 +2765,9 @@
     "series": "Series 18",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001741.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Dragon Suit Guy",
@@ -2221,7 +2775,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001743.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cake Guy",
@@ -2229,7 +2785,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001746.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Race Car Guy",
@@ -2237,7 +2795,9 @@
     "series": "Series 18",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001749.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Flowerpot Girl",
@@ -2245,7 +2805,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001750.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "LEGO Brick Suit Girl",
@@ -2253,7 +2815,9 @@
     "series": "Series 18",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001739.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Unicorn Guy",
@@ -2261,7 +2825,9 @@
     "series": "Series 18",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001753.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Birthday Party Boy",
@@ -2269,7 +2835,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001752.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spider Suit Boy",
@@ -2277,7 +2845,9 @@
     "series": "Series 18",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001745.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Birthday Party Girl",
@@ -2285,7 +2855,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001742.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cactus Girl",
@@ -2293,7 +2865,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001747.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cowboy Costume Guy",
@@ -2301,7 +2875,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001751.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Party Clown",
@@ -2309,7 +2885,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001740.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cat Costume Girl",
@@ -2317,7 +2895,9 @@
     "series": "Series 18",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001748.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gamer",
@@ -2325,7 +2905,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001298.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Shower Guy",
@@ -2333,7 +2915,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-002071.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ghost Knight",
@@ -2341,7 +2925,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-006546.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Monkey King",
@@ -2349,7 +2935,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-002073.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Programmer",
@@ -2357,7 +2945,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000695.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mummy",
@@ -2365,7 +2955,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000900.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Jungle Explorer",
@@ -2373,7 +2965,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012651.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Firefighter",
@@ -2381,7 +2975,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000440.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Dog Carer",
@@ -2389,7 +2985,9 @@
     "series": "Series 19",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-002078.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pizza Guy",
@@ -2397,7 +2995,9 @@
     "series": "Series 19",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-002966.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Space Bounty Hunter",
@@ -2405,7 +3005,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-004019.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Gardener",
@@ -2413,7 +3015,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rugby Player",
@@ -2421,7 +3025,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-002082.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fox Suit Girl",
@@ -2429,7 +3035,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015512.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bear Costume Guy",
@@ -2437,7 +3045,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008252.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mountain Biker",
@@ -2445,7 +3055,9 @@
     "series": "Series 19",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012813.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "80s Musician",
@@ -2453,7 +3065,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008799.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Athlete",
@@ -2461,7 +3075,9 @@
     "series": "Series 20",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008804.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Breakdancer",
@@ -2469,7 +3085,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008809.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Brick Costume Boy",
@@ -2477,7 +3095,9 @@
     "series": "Series 20",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-006029.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Drone Boy",
@@ -2485,7 +3105,9 @@
     "series": "Series 20",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-010037.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Llama Costume Girl",
@@ -2493,7 +3115,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008806.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Martial Arts Boy",
@@ -2501,7 +3125,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008805.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pea Pod Costume Girl",
@@ -2509,7 +3135,9 @@
     "series": "Series 20",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015512.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pinata Boy",
@@ -2517,7 +3145,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008796.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pirate Girl",
@@ -2525,7 +3155,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-002561.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pajama Girl",
@@ -2533,7 +3165,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015512.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sea Rescuer",
@@ -2541,7 +3175,9 @@
     "series": "Series 20",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008803.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Space Fan",
@@ -2549,7 +3185,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008797.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Super Warrior",
@@ -2557,7 +3195,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008800.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tournament Knight",
@@ -2565,7 +3205,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008798.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Viking",
@@ -2573,7 +3215,9 @@
     "series": "Series 20",
     "collected": false,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000913.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Airplane Girl",
@@ -2581,7 +3225,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011022.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Alien",
@@ -2589,7 +3235,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000018.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ancient Warrior",
@@ -2597,7 +3245,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011023.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Beekeeper",
@@ -2605,7 +3255,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011021.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cabaret Singer",
@@ -2613,7 +3265,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011020.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Centaur Warrior",
@@ -2621,7 +3275,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011019.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ladybug Girl",
@@ -2629,7 +3285,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-005985.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Paddle Surfer",
@@ -2637,7 +3295,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011017.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pug Costume Guy",
@@ -2645,7 +3305,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011016.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Shipwreck Survivor",
@@ -2653,7 +3315,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011014.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Space Police Guy",
@@ -2661,7 +3325,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011012.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Violin Kid",
@@ -2669,7 +3335,9 @@
     "series": "Series 21",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011013.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Birdwatcher",
@@ -2677,7 +3345,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012593.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Chili Costume Fan",
@@ -2685,7 +3355,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012182.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Figure Skating Champion",
@@ -2693,7 +3365,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012186.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Forest Elf",
@@ -2701,7 +3375,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012188.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Horse and Groom",
@@ -2709,7 +3385,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Night Protector",
@@ -2717,7 +3395,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012187.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Raccoon Costume Fan",
@@ -2725,7 +3405,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012190.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Robot Repair Tech",
@@ -2733,7 +3415,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012181.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Snow Guardian",
@@ -2741,7 +3425,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012184.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Space Creature",
@@ -2749,7 +3435,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012191.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Troubadour",
@@ -2757,7 +3445,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012183.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wheelchair Racer",
@@ -2765,7 +3455,9 @@
     "series": "Series 22",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012192.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cardboard Robot",
@@ -2773,7 +3465,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013079.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Holiday Elf",
@@ -2781,7 +3475,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000907.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ferry Captain",
@@ -2789,7 +3485,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008252.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Green Dragon Costume",
@@ -2797,7 +3495,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013090.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Knight of the Yellow Castle",
@@ -2805,7 +3505,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013089.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Nutcracker",
@@ -2813,7 +3515,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013080.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Popcorn Costume",
@@ -2821,7 +3525,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013085.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Reindeer Costume",
@@ -2829,7 +3535,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013083.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Snowman",
@@ -2837,7 +3545,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-005758.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sugar Fairy",
@@ -2845,7 +3555,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013081.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Turkey Costume",
@@ -2853,7 +3565,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013087.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wolf Costume",
@@ -2861,7 +3575,9 @@
     "series": "Series 23",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013086.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Brown Astronaut and Spacebaby",
@@ -2869,7 +3585,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001014.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Carrot Mascot",
@@ -2877,7 +3595,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013452.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Conservationist",
@@ -2885,7 +3605,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013456.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Falconer",
@@ -2893,7 +3615,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-009690.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Football Referee",
@@ -2901,7 +3625,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011089.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Newspaper Kid",
@@ -2909,7 +3635,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013460.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Orc",
@@ -2917,7 +3645,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000191.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Potter",
@@ -2925,7 +3655,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000029.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Robot Warrior",
@@ -2933,7 +3665,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000695.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rockin' Horse Rider",
@@ -2941,7 +3675,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013459.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Rococo Aristocrat",
@@ -2949,7 +3685,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-013458.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "T-Rex Costume Fan",
@@ -2957,7 +3695,9 @@
     "series": "Series 24",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001059.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "E-Sports Gamer",
@@ -2965,7 +3705,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014654.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mushroom Sprite",
@@ -2973,7 +3715,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014650.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pet Groomer",
@@ -2981,7 +3725,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014644.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Film Noir Detective",
@@ -2989,7 +3735,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000888.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Train Kid",
@@ -2997,7 +3745,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014646.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Triceratops Costume Fan",
@@ -3005,7 +3755,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014648.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Goatherd",
@@ -3013,7 +3765,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014651.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fitness Instructor",
@@ -3021,7 +3775,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000917.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Sprinter",
@@ -3029,7 +3785,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014652.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fierce Barbarian",
@@ -3037,7 +3795,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014645.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Vampire Knight",
@@ -3045,7 +3805,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014653.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Harpy",
@@ -3053,7 +3815,9 @@
     "series": "Series 25",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-003119.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Alien Beetlezoid",
@@ -3061,7 +3825,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014951.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Alien Tourist",
@@ -3069,7 +3835,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014959.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Blacktron Mutant",
@@ -3077,7 +3845,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014949.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Flying Saucer Costume Fan",
@@ -3085,7 +3855,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014954.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Ice Planet Explorer",
@@ -3093,7 +3865,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014953.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Imposter",
@@ -3101,7 +3875,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014960.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "M-Tron Powerlifter",
@@ -3109,7 +3885,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014957.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Nurse Android",
@@ -3117,7 +3895,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014956.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Orion",
@@ -3125,7 +3905,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014950.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Retro Space Heroine",
@@ -3133,7 +3915,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014958.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Robot Butler",
@@ -3141,7 +3925,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014952.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Spacewalking Astronaut",
@@ -3149,7 +3935,9 @@
     "series": "Series 26",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-014961.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Hamster Costume Fan",
@@ -3157,7 +3945,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015702.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Wolfpack Beastmaster",
@@ -3165,7 +3955,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015703.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Jetpack Racer",
@@ -3173,7 +3965,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015704.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Astronomer Kid",
@@ -3181,7 +3975,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015705.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Plush Toy Collector",
@@ -3189,7 +3985,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015706.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Longboarder",
@@ -3197,7 +3995,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015708.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pterodactyl Costume Fan",
@@ -3205,7 +4005,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015707.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bogeyman",
@@ -3213,7 +4015,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015709.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cupid",
@@ -3221,7 +4025,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015710.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Pirate Quartermaster",
@@ -3229,7 +4035,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015711.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cat Lover",
@@ -3237,7 +4045,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015712.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Steampunk Inventor",
@@ -3245,7 +4055,9 @@
     "series": "Series 27",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-015713.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Peacock",
@@ -3253,7 +4065,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-017050.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Fluffy Cat",
@@ -3261,7 +4075,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-011139.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Goldfish",
@@ -3269,7 +4085,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-017052.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Monkey",
@@ -3277,7 +4095,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-002073.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Frog",
@@ -3285,7 +4105,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012522.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Koala",
@@ -3293,7 +4115,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012839.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Dalmatian",
@@ -3301,7 +4125,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-008263.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Crocodile",
@@ -3309,7 +4135,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000370.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Dolphin",
@@ -3317,7 +4145,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-012400.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cute Bunny",
@@ -3325,7 +4155,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-003225.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Lion",
@@ -3333,7 +4165,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-000184.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Parrot",
@@ -3341,7 +4175,9 @@
     "series": "Series 28",
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-016082.jpg",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Robot T. rex",
@@ -3349,7 +4185,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Bionicle Cosplayer",
@@ -3357,7 +4195,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Boba Cup Fan",
@@ -3365,7 +4205,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Monster Hunter",
@@ -3373,7 +4215,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Mysterious Ronin",
@@ -3381,7 +4225,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Trash Monster",
@@ -3389,7 +4235,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Chocolatier",
@@ -3397,7 +4245,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Tuba Player",
@@ -3405,7 +4255,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Cute Witch",
@@ -3413,7 +4265,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Football Goalkeeper",
@@ -3421,7 +4275,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Unicorn Elf",
@@ -3429,7 +4285,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "Marine Biologist",
@@ -3437,7 +4295,9 @@
     "series": "Series 29",
     "collected": false,
     "img": "string",
-    "category": "Collectible Minifigs"
+    "categories": [
+      "Collectible Minifigs"
+    ]
   },
   {
     "name": "The Ice Hockey Pro",
@@ -3445,7 +4305,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Violinist",
@@ -3453,7 +4315,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Ice Skater",
@@ -3461,7 +4325,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Gamer",
@@ -3469,7 +4335,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Athlete",
@@ -3477,7 +4345,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Year of the Tiger Lady",
@@ -3485,7 +4355,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Photographer",
@@ -3493,7 +4365,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Life of the Party",
@@ -3501,7 +4375,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Birthday Clown",
@@ -3509,7 +4385,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Party Girl",
@@ -3517,7 +4395,9 @@
     "series": "2022 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Heart Bear",
@@ -3525,7 +4405,9 @@
     "series": "2022 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Butterfly Fairy",
@@ -3533,7 +4415,9 @@
     "series": "2022 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Chick",
@@ -3541,7 +4425,9 @@
     "series": "2022 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The First Mate",
@@ -3549,7 +4435,9 @@
     "series": "2022 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Sheriff",
@@ -3557,7 +4445,9 @@
     "series": "2022 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Princess",
@@ -3565,7 +4455,9 @@
     "series": "2022 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Knight",
@@ -3573,7 +4465,9 @@
     "series": "2022 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Pirate Captain",
@@ -3581,7 +4475,9 @@
     "series": "2022 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Wizard",
@@ -3589,7 +4485,9 @@
     "series": "2022 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Outlaw",
@@ -3597,7 +4495,9 @@
     "series": "2022 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Pizza Delivery",
@@ -3605,7 +4505,9 @@
     "series": "2022 Q3/Q4 September",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Street Dancer",
@@ -3613,7 +4515,9 @@
     "series": "2022 Q3/Q4 September",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Sailor",
@@ -3621,7 +4525,9 @@
     "series": "2022 Q3/Q4 September",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Grandpa",
@@ -3629,7 +4535,9 @@
     "series": "2022 Q3/Q4 September",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Boy Scout",
@@ -3637,7 +4545,9 @@
     "series": "2022 Q3/Q4 September",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The PJ Girl",
@@ -3645,7 +4555,9 @@
     "series": "2022 Q3/Q4 September",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "La Catrina",
@@ -3653,7 +4565,9 @@
     "series": "2022 Q3/Q4 September",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Scarecrow",
@@ -3661,7 +4575,9 @@
     "series": "2022 Q4 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Witch",
@@ -3669,7 +4585,9 @@
     "series": "2022 Q4 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "The Bat Boy",
@@ -3677,7 +4595,9 @@
     "series": "2022 Q4 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Mrs. Clause",
@@ -3685,7 +4605,9 @@
     "series": "2022 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Gingerbread Girl",
@@ -3693,7 +4615,9 @@
     "series": "2022 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Guitar Man",
@@ -3701,7 +4625,9 @@
     "series": "2022 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Trixy Clown",
@@ -3709,7 +4635,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Block Cam",
@@ -3717,7 +4645,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Flan O'Phrase",
@@ -3725,7 +4655,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Guitar Man",
@@ -3733,7 +4665,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Tweety Fleur",
@@ -3741,7 +4675,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Happy Busker",
@@ -3749,7 +4685,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Rocky Ro",
@@ -3757,7 +4695,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Sandy Boat",
@@ -3765,7 +4705,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Rocket Flash",
@@ -3773,7 +4715,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Bunny Walker",
@@ -3781,7 +4725,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Egg Splat",
@@ -3789,7 +4735,9 @@
     "series": "2023 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Panda Suit",
@@ -3797,7 +4745,9 @@
     "series": "2023 Q1 Chinese New Year",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Lucky Lantern",
@@ -3805,7 +4755,9 @@
     "series": "2023 Q1 Chinese New Year",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Magic Rabbit",
@@ -3813,7 +4765,9 @@
     "series": "2023 Q1 Chinese New Year",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Pirate Man",
@@ -3821,7 +4775,9 @@
     "series": "2023 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Medieval Girl",
@@ -3829,7 +4785,9 @@
     "series": "2023 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Fisherman",
@@ -3837,7 +4795,9 @@
     "series": "2023 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Gamer Girl",
@@ -3845,7 +4805,9 @@
     "series": "2023 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Wizard Poisons Master",
@@ -3853,7 +4815,9 @@
     "series": "2023 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Police Girl",
@@ -3861,7 +4825,9 @@
     "series": "2023 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Ice-Cream Man",
@@ -3869,7 +4835,9 @@
     "series": "2023 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Nya",
@@ -3877,7 +4845,9 @@
     "series": "2023 Q3 June",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Sora",
@@ -3885,7 +4855,9 @@
     "series": "2023 Q3 June",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Lloyd",
@@ -3893,7 +4865,9 @@
     "series": "2023 Q3 June",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Genin",
@@ -3901,7 +4875,9 @@
     "series": "2023 Q3 June",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Super Striker",
@@ -3909,7 +4885,9 @@
     "series": "2023 Q3 June",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Arin",
@@ -3917,7 +4895,9 @@
     "series": "2023 Q3 June",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Kai",
@@ -3925,7 +4905,9 @@
     "series": "2023 Q3 June",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Musical Jazz Cat",
@@ -3933,7 +4915,9 @@
     "series": "2023 Q4 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Pumpkin Guy",
@@ -3941,7 +4925,9 @@
     "series": "2023 Q4 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Happy Tree Man",
@@ -3949,7 +4935,9 @@
     "series": "2023 Q4 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Slingshot Cheeky Boy",
@@ -3957,7 +4945,9 @@
     "series": "2023 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Happy French Baker",
@@ -3965,7 +4955,9 @@
     "series": "2023 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "True Gentleman",
@@ -3973,7 +4965,9 @@
     "series": "2023 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Farmer Guy",
@@ -3981,7 +4975,9 @@
     "series": "2023 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Talented Photographer",
@@ -3989,7 +4985,9 @@
     "series": "2023 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Ballerina Skater",
@@ -3997,7 +4995,9 @@
     "series": "2023 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Coffee Drinking Merman",
@@ -4005,7 +5005,9 @@
     "series": "2023 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Happy Santa with a Teddy Bear",
@@ -4013,7 +5015,9 @@
     "series": "2023 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Beautiful Winter Girl",
@@ -4021,7 +5025,9 @@
     "series": "2023 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Strong and Happy Winter Guy",
@@ -4029,7 +5035,9 @@
     "series": "2023 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Happy Snowboard Girl",
@@ -4037,7 +5045,9 @@
     "series": "2024 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cheeky Pirate Girl",
@@ -4045,7 +5055,9 @@
     "series": "2024 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "A Brave Knight",
@@ -4053,7 +5065,9 @@
     "series": "2024 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "A Cool Guy",
@@ -4061,7 +5075,9 @@
     "series": "2024 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Creative Fashion Designer",
@@ -4069,7 +5085,9 @@
     "series": "2024 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Colorful Spring Girl with Wings",
@@ -4077,7 +5095,9 @@
     "series": "2024 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "LNY Man with Dragon Deco & Color",
@@ -4085,7 +5105,9 @@
     "series": "2024 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Birthday Singer Girl",
@@ -4093,7 +5115,9 @@
     "series": "2024 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Funny Birthday Clown",
@@ -4101,7 +5125,9 @@
     "series": "2024 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Birthday Llama Pinata",
@@ -4109,7 +5135,9 @@
     "series": "2024 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Loving Valentine Boy",
@@ -4117,7 +5145,9 @@
     "series": "2024 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Spring Carrot Girl",
@@ -4125,7 +5155,9 @@
     "series": "2024 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Easter Bird with Bunny",
@@ -4133,7 +5165,9 @@
     "series": "2024 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Extraterrestrial Alien",
@@ -4141,7 +5175,9 @@
     "series": "2024 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Space Explorer Dude",
@@ -4149,7 +5185,9 @@
     "series": "2024 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Funky Space Astrophycisit",
@@ -4157,7 +5195,9 @@
     "series": "2024 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Elegant Cello Player",
@@ -4165,7 +5205,9 @@
     "series": "2024 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Wild Cowboy with Whip",
@@ -4173,7 +5215,9 @@
     "series": "2024 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cool Police Officier",
@@ -4181,7 +5225,9 @@
     "series": "2024 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Super Handy Engineer",
@@ -4189,7 +5235,9 @@
     "series": "2024 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Lego Brick Specialist",
@@ -4197,7 +5245,9 @@
     "series": "2024 Q3 July",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Strong Olympic Swimmer",
@@ -4205,7 +5255,9 @@
     "series": "2024 Q3 July",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cute Jockey with Trophy",
@@ -4213,7 +5265,9 @@
     "series": "2024 Q3 July",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Dog Walker Girl",
@@ -4221,7 +5275,9 @@
     "series": "2024 Q3 July",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Milkshake Lady with Apple",
@@ -4229,7 +5285,9 @@
     "series": "2024 Q3 July",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "French Queen and Butterfly",
@@ -4237,7 +5295,9 @@
     "series": "2024 Q3 July",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "French Mime with Baguette",
@@ -4245,7 +5305,9 @@
     "series": "2024 Q3 July",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Spooky Ghost",
@@ -4253,7 +5315,9 @@
     "series": "2024 Q3 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Scary Witch",
@@ -4261,7 +5325,9 @@
     "series": "2024 Q3 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cool Skeleton Girl",
@@ -4269,7 +5335,9 @@
     "series": "2024 Q3 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Mateo",
@@ -4277,7 +5345,9 @@
     "series": "2024 Q3 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Izzie",
@@ -4285,7 +5355,9 @@
     "series": "2024 Q3 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Zoey",
@@ -4293,7 +5365,9 @@
     "series": "2024 Q3 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Mr. Oz",
@@ -4301,7 +5375,9 @@
     "series": "2024 Q3 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Jayden",
@@ -4309,7 +5385,9 @@
     "series": "2024 Q3 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Nova",
@@ -4317,7 +5395,9 @@
     "series": "2024 Q3 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cooper",
@@ -4325,7 +5405,9 @@
     "series": "2024 Q3 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Surfing Santa",
@@ -4333,7 +5415,9 @@
     "series": "2024 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Gifted Minifigure",
@@ -4341,7 +5425,9 @@
     "series": "2024 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Festive Girl",
@@ -4349,7 +5435,9 @@
     "series": "2024 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Lunar New year",
@@ -4357,7 +5445,9 @@
     "series": "2025 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Velantine",
@@ -4365,7 +5455,9 @@
     "series": "2025 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cute Vikin",
@@ -4373,7 +5465,9 @@
     "series": "2025 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Strong Knight",
@@ -4381,7 +5475,9 @@
     "series": "2025 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Artistic Artist",
@@ -4389,7 +5485,9 @@
     "series": "2025 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cheesehead",
@@ -4397,7 +5495,9 @@
     "series": "2025 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Lucha Libre",
@@ -4405,7 +5505,9 @@
     "series": "2025 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Birthday Girl",
@@ -4413,7 +5515,9 @@
     "series": "2025 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Reddish Orange Brick Costume",
@@ -4421,7 +5525,9 @@
     "series": "2025 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Balloon Dog Fan",
@@ -4429,7 +5535,9 @@
     "series": "2025 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Green Bunny",
@@ -4437,7 +5545,9 @@
     "series": "2025 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Busy Bee with Wings",
@@ -4445,7 +5555,9 @@
     "series": "2025 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Boy with Leg Cast",
@@ -4453,7 +5565,9 @@
     "series": "2025 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Martial Arts Minifigure",
@@ -4461,7 +5575,9 @@
     "series": "2025 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Pirate Dress Up",
@@ -4469,7 +5585,9 @@
     "series": "2025 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Doctor in a White Coat",
@@ -4477,7 +5595,9 @@
     "series": "2025 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Farmer with Chili Costume",
@@ -4485,7 +5605,9 @@
     "series": "2025 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Candyland Izzie",
@@ -4493,7 +5615,9 @@
     "series": "2025 Q2 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Logan the Beast",
@@ -4501,7 +5625,9 @@
     "series": "2025 Q2 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Mateo with mini Z-blob",
@@ -4509,7 +5635,9 @@
     "series": "2025 Q2 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Classic Space Mr. Oz",
@@ -4517,7 +5645,9 @@
     "series": "2025 Q2 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Z-Blob the Wrestler",
@@ -4525,7 +5655,9 @@
     "series": "2025 Q2 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "DREAMZzz Pirate",
@@ -4533,7 +5665,9 @@
     "series": "2025 Q2 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Rockin Zoey",
@@ -4541,7 +5675,9 @@
     "series": "2025 Q2 DREAMZzz",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Talented Street Musician",
@@ -4549,7 +5685,9 @@
     "series": "2025 Q3 Summer",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Beautiful Fruit Seller",
@@ -4557,7 +5695,9 @@
     "series": "2025 Q3 Summer",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Cool Surfer",
@@ -4565,7 +5705,9 @@
     "series": "2025 Q3 Summer",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Ghostly Ghoul",
@@ -4573,7 +5715,9 @@
     "series": "2025 Q3 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Little Witch",
@@ -4581,7 +5725,9 @@
     "series": "2025 Q3 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Mummified Man",
@@ -4589,7 +5735,9 @@
     "series": "2025 Q3 Halloween",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Arctic Explorer",
@@ -4597,7 +5745,9 @@
     "series": "2025 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Pink Snowboarder",
@@ -4605,7 +5755,9 @@
     "series": "2025 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Nature Scout",
@@ -4613,7 +5765,9 @@
     "series": "2025 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Space Dreamer",
@@ -4621,7 +5775,9 @@
     "series": "2025 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Avid Gamer",
@@ -4629,7 +5785,9 @@
     "series": "2025 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "La Calaca",
@@ -4637,7 +5795,9 @@
     "series": "2025 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "La Catrina",
@@ -4645,7 +5805,9 @@
     "series": "2025 Q4 October",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Mrs. Clause",
@@ -4653,7 +5815,9 @@
     "series": "2025 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Elf with Candy Cane",
@@ -4661,7 +5825,9 @@
     "series": "2025 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Golden Santa",
@@ -4669,7 +5835,9 @@
     "series": "2025 Q4 Christmas",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Oni Mystake with Sword",
@@ -4677,7 +5845,9 @@
     "series": "2026 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Pixal Brave Girl",
@@ -4685,7 +5855,9 @@
     "series": "2026 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Dareth Karate Master",
@@ -4693,7 +5865,9 @@
     "series": "2026 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Nya Master of Water",
@@ -4701,7 +5875,9 @@
     "series": "2026 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Young Baby Arin",
@@ -4709,7 +5885,9 @@
     "series": "2026 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Pink Hair Salon",
@@ -4717,7 +5895,9 @@
     "series": "2026 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Strong Master Lloyd",
@@ -4725,7 +5905,9 @@
     "series": "2026 Q1 January",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Elephant Costume Guy",
@@ -4733,7 +5915,9 @@
     "series": "2026 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Jester Musician",
@@ -4741,7 +5925,9 @@
     "series": "2026 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Coral Brick Suit Birthday",
@@ -4749,7 +5935,9 @@
     "series": "2026 Q1 February",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Flower Girl with Watering Can",
@@ -4757,7 +5945,9 @@
     "series": "2026 Q1 March",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Chick Costume Boy",
@@ -4765,7 +5955,9 @@
     "series": "2026 Q1 March",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Mushroom Girl",
@@ -4773,7 +5965,9 @@
     "series": "2026 Q1 March",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Fireman with Axe",
@@ -4781,7 +5975,9 @@
     "series": "2026 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Boy with Sunflower Lanyard",
@@ -4789,7 +5985,9 @@
     "series": "2026 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Rescue Ranger",
@@ -4797,7 +5995,9 @@
     "series": "2026 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Stunt Racer",
@@ -4805,7 +6005,9 @@
     "series": "2026 Q2 April",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Backpacker",
@@ -4813,7 +6015,9 @@
     "series": "2026 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Airline Pilot",
@@ -4821,7 +6025,9 @@
     "series": "2026 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Balloon Pilot",
@@ -4829,7 +6035,9 @@
     "series": "2026 Q2 May",
     "collected": false,
     "img": "string",
-    "category": "BAM"
+    "categories": [
+      "BAM"
+    ]
   },
   {
     "name": "Alice",
@@ -4837,7 +6045,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Ariel",
@@ -4845,7 +6055,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Donald",
@@ -4853,7 +6065,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Daisy",
@@ -4861,7 +6075,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Buzz Lightyear",
@@ -4869,7 +6085,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Cheshire Cat",
@@ -4877,7 +6095,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Captain Hook",
@@ -4885,7 +6105,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Aladdin",
@@ -4893,7 +6115,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Mickey",
@@ -4901,7 +6125,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Minnie",
@@ -4909,7 +6135,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Genie",
@@ -4917,7 +6145,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Alien",
@@ -4925,7 +6155,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Stitch",
@@ -4933,7 +6165,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Mr. Incredible",
@@ -4941,7 +6175,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Syndrome",
@@ -4949,7 +6185,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Peter Pan",
@@ -4957,7 +6195,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Maleficent",
@@ -4965,7 +6205,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Ursula",
@@ -4973,7 +6215,9 @@
     "series": "Series 1",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Mickey Steamboat",
@@ -4981,7 +6225,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Minnie Steamboat",
@@ -4989,7 +6235,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Scrooge",
@@ -4997,7 +6245,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Huey",
@@ -5005,7 +6255,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Dewey",
@@ -5013,7 +6265,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Louie",
@@ -5021,7 +6275,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Chip",
@@ -5029,7 +6285,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Dale",
@@ -5037,7 +6295,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Jasmine",
@@ -5045,7 +6305,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Jafar",
@@ -5053,7 +6315,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Anna",
@@ -5061,7 +6325,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Elsa",
@@ -5069,7 +6335,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Jack Skellington",
@@ -5077,7 +6345,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Sally",
@@ -5085,7 +6355,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Edna",
@@ -5093,7 +6365,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Frozone",
@@ -5101,7 +6375,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Hercules",
@@ -5109,7 +6385,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Hades",
@@ -5117,7 +6395,9 @@
     "series": "Series 2",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Sorcerer's Apprentice Mickey",
@@ -5125,7 +6405,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Jiminy Cricket",
@@ -5133,7 +6415,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Pinocchio",
@@ -5141,7 +6425,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Oswald the Lucky Rabbit",
@@ -5149,7 +6435,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Tiana",
@@ -5157,7 +6445,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Dr. Facillier",
@@ -5165,7 +6455,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Queen of Hearts",
@@ -5173,7 +6465,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Aurora",
@@ -5181,7 +6475,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Mulan",
@@ -5189,7 +6485,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Ernesto De La Cruz",
@@ -5197,7 +6495,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Miguel & Dante",
@@ -5205,7 +6505,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Pocahontas",
@@ -5213,7 +6515,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Cruella De Vil",
@@ -5221,7 +6525,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Robin Hood",
@@ -5229,7 +6535,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Prince John",
@@ -5237,7 +6545,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Baymax",
@@ -5245,7 +6555,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "Stitch 626",
@@ -5253,7 +6565,9 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   },
   {
     "name": "The Queen",
@@ -5261,6 +6575,8 @@
     "series": "Disney 100",
     "collected": false,
     "img": "string",
-    "category": "Disney"
+    "categories": [
+      "Disney"
+    ]
   }
 ]
