@@ -6578,5 +6578,135 @@
     "categories": [
       "Disney"
     ]
+  },
+  {
+    "name": "Black with Air Tanks",
+    "itemNum": "sp003",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Blue with Air Tanks",
+    "itemNum": "sp004",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Dark Purple with Air Tanks",
+    "itemNum": "sp139",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Orange with Air Tanks",
+    "itemNum": "sp130",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Red with Air Tanks",
+    "itemNum": "sp005",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "White with Air Tanks",
+    "itemNum": "sp006",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Yellow with Air Tanks",
+    "itemNum": "sp007",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Green with Air Tanks",
+    "itemNum": "idea008",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Lenny (Pink) with Air Tanks",
+    "itemNum": "sp007",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Dark Turquoise with Air Tanks",
+    "itemNum": "idea227",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Pearl Gold with Air Tanks",
+    "itemNum": "idea230",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Little Blue with Air Tanks",
+    "itemNum": "sp140",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Little White with Air Tanks",
+    "itemNum": "sp141",
+    "series": "Colors",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
   }
 ]
