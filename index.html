@@ -181,7 +181,7 @@
       border-bottom: 2px solid var(--border-light);
     }
 
-    .category-group:first-child .category-group-header { padding-top: 0; }
+    .category-group.first-visible .category-group-header { padding-top: 0; }
 
     .category-stats {
       display: flex;
@@ -706,8 +706,12 @@
   function applyFilters() {
     const q = document.getElementById('search').value.toLowerCase().trim();
 
+    let firstVisible = true;
     for (const [cat, groupEl] of categoryGroupEls) {
-      groupEl.classList.toggle('hidden', activeCategory !== 'all' && activeCategory !== cat);
+      const hide = activeCategory !== 'all' && activeCategory !== cat;
+      groupEl.classList.toggle('hidden', hide);
+      groupEl.classList.toggle('first-visible', !hide && firstVisible);
+      if (!hide) firstVisible = false;
     }
 
     for (const [key, pairs] of sectionCards) {
