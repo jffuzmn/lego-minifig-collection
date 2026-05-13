@@ -685,9 +685,23 @@
   const filterBar = document.getElementById('filter-bar');
   let activeCategory = 'all';
 
+  function hashToCategory() {
+    const h = decodeURIComponent(location.hash.slice(1)).toLowerCase();
+    return categories.find(c => c.toLowerCase() === h) || 'all';
+  }
+
+  function setCategory(cat) {
+    activeCategory = cat;
+    location.hash = cat === 'all' ? '' : encodeURIComponent(cat);
+    filterBar.querySelectorAll('.filter-pill').forEach(p =>
+      p.classList.toggle('active', p.dataset.category === cat)
+    );
+    applyFilters();
+  }
+
   [['all', 'All'], ...categories.map(c => [c, c])].forEach(([val, label]) => {
     const pill = document.createElement('button');
-    pill.className = 'filter-pill' + (val === 'all' ? ' active' : '');
+    pill.className = 'filter-pill';
     pill.textContent = label;
     pill.dataset.category = val;
     filterBar.appendChild(pill);
@@ -696,10 +710,10 @@
   filterBar.addEventListener('click', e => {
     const pill = e.target.closest('.filter-pill');
     if (!pill) return;
-    activeCategory = pill.dataset.category;
-    filterBar.querySelectorAll('.filter-pill').forEach(p => p.classList.toggle('active', p === pill));
-    applyFilters();
+    setCategory(pill.dataset.category);
   });
+
+  window.addEventListener('hashchange', () => setCategory(hashToCategory()));
 
   document.getElementById('search').addEventListener('input', applyFilters);
 
@@ -728,6 +742,7 @@
 
   loadState();
   updateStats();
+  setCategory(hashToCategory());
 })();
 </script>
 </body>
