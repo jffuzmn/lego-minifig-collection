@@ -7278,5 +7278,125 @@
     "categories": [
       "Collectible Minifigs"
     ]
+  },
+  {
+    "name": "Dwarf Barbarian",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Gith Warlock",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Tiefling Sorcerer",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Dragonborn Paladin",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Halfling Druid",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Aarakocra Ranger",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Mind Flayer",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Strahd von Zarovich",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Elf Bard",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "The Lady of Pain",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Szass Tam",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Tasha the Witch Queen",
+    "itemNum": "71047",
+    "series": "Dungeons and Dragons",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
   }
 ]
