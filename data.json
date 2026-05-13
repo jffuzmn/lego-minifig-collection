@@ -7407,5 +7407,275 @@
     "categories": [
       "Collectible Minifigs"
     ]
+  },
+  {
+    "name": "Audie",
+    "itemNum": "ani012",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Blathers",
+    "itemNum": "ani022",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Bunnie",
+    "itemNum": "ani009",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Celeste",
+    "itemNum": "ani020",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Fang",
+    "itemNum": "ani025",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Fauna",
+    "itemNum": "ani004",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Fuchsia",
+    "itemNum": "ani023",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Goldie",
+    "itemNum": "ani026",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Isabelle - Coral Hoodie",
+    "itemNum": "ani014",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Isabelle - Plaid Vest, Dark Blue Skirt",
+    "itemNum": "ani003",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Julian - Dark Pink Hoodie",
+    "itemNum": "ani019",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Julian - Dark Purple Hoodie, Pearl Gold Party Hat",
+    "itemNum": "ani008",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "K.K. Slider",
+    "itemNum": "ani013",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Kapp'n",
+    "itemNum": "ani005",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Leif",
+    "itemNum": "ani015",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Lily",
+    "itemNum": "ani021",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Mabel",
+    "itemNum": "ani017",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Maple",
+    "itemNum": "ani007",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Marshal",
+    "itemNum": "ani006",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "itemNum": "ani016",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Rosie",
+    "itemNum": "ani002",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Sasha",
+    "itemNum": "ani018",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Stitches",
+    "itemNum": "ani024",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Tangy",
+    "itemNum": "ani011",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Tom Nook",
+    "itemNum": "ani027",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Tom Nook - Party Hat",
+    "itemNum": "ani001",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
+  },
+  {
+    "name": "Wilbur",
+    "itemNum": "ani010",
+    "series": "Animal Crossing",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Animal Crossing"
+    ]
   }
 ]
