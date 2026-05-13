@@ -136,11 +136,15 @@
       padding: 10px 32px;
       display: flex;
       gap: 8px;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
       position: sticky;
       top: 64px;
       z-index: 90;
     }
+
+    .filter-bar::-webkit-scrollbar { display: none; }
 
     .filter-pill {
       padding: 5px 14px;
