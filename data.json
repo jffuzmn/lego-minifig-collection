@@ -6582,7 +6582,7 @@
   {
     "name": "Black with Air Tanks",
     "itemNum": "sp003",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6592,7 +6592,7 @@
   {
     "name": "Blue with Air Tanks",
     "itemNum": "sp004",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6602,7 +6602,7 @@
   {
     "name": "Dark Purple with Air Tanks",
     "itemNum": "sp139",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6612,7 +6612,7 @@
   {
     "name": "Orange with Air Tanks",
     "itemNum": "sp130",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6622,7 +6622,7 @@
   {
     "name": "Red with Air Tanks",
     "itemNum": "sp005",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6632,7 +6632,7 @@
   {
     "name": "White with Air Tanks",
     "itemNum": "sp006",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6642,7 +6642,7 @@
   {
     "name": "Yellow with Air Tanks",
     "itemNum": "sp007",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6652,7 +6652,7 @@
   {
     "name": "Green with Air Tanks",
     "itemNum": "idea008",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6662,7 +6662,7 @@
   {
     "name": "Lenny (Pink) with Air Tanks",
     "itemNum": "sp007",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6672,7 +6672,7 @@
   {
     "name": "Dark Turquoise with Air Tanks",
     "itemNum": "idea227",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6682,7 +6682,7 @@
   {
     "name": "Pearl Gold with Air Tanks",
     "itemNum": "idea230",
-    "series": "Colors",
+    "series": "Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6692,7 +6692,7 @@
   {
     "name": "Little Blue with Air Tanks",
     "itemNum": "sp140",
-    "series": "Colors",
+    "series": "Space Baby",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6702,7 +6702,17 @@
   {
     "name": "Little White with Air Tanks",
     "itemNum": "sp141",
-    "series": "Colors",
+    "series": "Space Baby",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Little Pink with Airtanks",
+    "itemNum": "sp142",
+    "series": "Space Baby",
     "collected": false,
     "img": "string",
     "categories": [
