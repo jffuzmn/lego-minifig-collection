@@ -6060,7 +6060,7 @@
     ]
   },
   {
-    "name": "Donald",
+    "name": "Donald Duck",
     "itemNum": "71012",
     "series": "Series 1",
     "collected": false,
@@ -6070,7 +6070,7 @@
     ]
   },
   {
-    "name": "Daisy",
+    "name": "Daisy Duck",
     "itemNum": "71012",
     "series": "Series 1",
     "collected": false,
@@ -6120,7 +6120,7 @@
     ]
   },
   {
-    "name": "Mickey",
+    "name": "Mickey Mouse",
     "itemNum": "71012",
     "series": "Series 1",
     "collected": false,
@@ -6130,7 +6130,7 @@
     ]
   },
   {
-    "name": "Minnie",
+    "name": "Minnie Mouse",
     "itemNum": "71012",
     "series": "Series 1",
     "collected": false,
@@ -6220,7 +6220,7 @@
     ]
   },
   {
-    "name": "Mickey Steamboat",
+    "name": "Vintage Mickey",
     "itemNum": "71024",
     "series": "Series 2",
     "collected": false,
@@ -6230,7 +6230,7 @@
     ]
   },
   {
-    "name": "Minnie Steamboat",
+    "name": "Vintage Minnie",
     "itemNum": "71024",
     "series": "Series 2",
     "collected": false,
@@ -6240,7 +6240,7 @@
     ]
   },
   {
-    "name": "Scrooge",
+    "name": "Scrooge McDuck",
     "itemNum": "71024",
     "series": "Series 2",
     "collected": false,
@@ -6250,7 +6250,7 @@
     ]
   },
   {
-    "name": "Huey",
+    "name": "Huey Duck",
     "itemNum": "71024",
     "series": "Series 2",
     "collected": false,
@@ -6260,7 +6260,7 @@
     ]
   },
   {
-    "name": "Dewey",
+    "name": "Dewey Duck",
     "itemNum": "71024",
     "series": "Series 2",
     "collected": false,
@@ -6270,7 +6270,7 @@
     ]
   },
   {
-    "name": "Louie",
+    "name": "Louie Duck",
     "itemNum": "71024",
     "series": "Series 2",
     "collected": false,
@@ -6360,7 +6360,7 @@
     ]
   },
   {
-    "name": "Edna",
+    "name": "Edna Mode",
     "itemNum": "71024",
     "series": "Series 2",
     "collected": false,
@@ -6450,7 +6450,7 @@
     ]
   },
   {
-    "name": "Dr. Facillier",
+    "name": "Dr. Facilier",
     "itemNum": "71038",
     "series": "Disney 100",
     "collected": false,
