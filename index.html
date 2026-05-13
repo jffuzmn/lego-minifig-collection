@@ -487,10 +487,11 @@
   for (const c of allCats) if (!categories.includes(c)) categories.push(c);
 
   // Build seriesMap: key = "category:series", fig appears in each of its categories
+  // Brick Body collapses all series into a single "Color" group
   const seriesMap = new Map();
   for (const fig of data) {
     for (const cat of fig.categories) {
-      const key = `${cat}:${fig.series}`;
+      const key = cat === 'Brick Body' ? `${cat}:Color` : `${cat}:${fig.series}`;
       if (!seriesMap.has(key)) seriesMap.set(key, []);
       seriesMap.get(key).push(fig);
     }
@@ -550,7 +551,7 @@
       section.innerHTML = `
         <div class="series-header">
           <span class="series-title">${seriesName}</span>
-          <span class="series-item-num">#${itemNum}</span>
+          ${seriesName !== 'Color' ? `<span class="series-item-num">#${itemNum}</span>` : ''}
           <div class="series-progress">
             <span class="series-progress-text" data-series-prog="${key}">0/${figs.length}</span>
             <div class="series-progress-bar">
