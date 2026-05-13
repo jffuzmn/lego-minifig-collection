@@ -496,19 +496,17 @@
     }
   }
 
-  function seriesSortValue(s) {
-    const m = s.match(/(\d+)/);
-    return m ? parseInt(m[1]) : s;
-  }
-
   const seriesOrder = [...seriesMap.keys()].sort((a, b) => {
     const catA = a.slice(0, a.indexOf(':')), serA = a.slice(a.indexOf(':') + 1);
     const catB = b.slice(0, b.indexOf(':')), serB = b.slice(b.indexOf(':') + 1);
     const catDiff = categories.indexOf(catA) - categories.indexOf(catB);
     if (catDiff !== 0) return catDiff;
-    const kA = seriesSortValue(serA), kB = seriesSortValue(serB);
-    if (typeof kA === 'number' && typeof kB === 'number') return kA - kB;
-    return String(kA).localeCompare(String(kB));
+    const mA = serA.match(/^Series (\d+)$/);
+    const mB = serB.match(/^Series (\d+)$/);
+    if (mA && mB) return parseInt(mA[1]) - parseInt(mB[1]);
+    if (mA) return -1;
+    if (mB) return 1;
+    return serA.localeCompare(serB);
   });
 
   // figToCards: for toggling all instances of a fig across categories

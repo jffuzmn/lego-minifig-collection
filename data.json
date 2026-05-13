@@ -7038,5 +7038,245 @@
     "categories": [
       "Spongebob"
     ]
+  },
+  {
+    "name": "F1 Car",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "F1 Academy Car",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "RB20",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Mercedes-AMG",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Ferrari",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "McLaren",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Aston Martin",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Alpine",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Williams",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "VCARB",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Sauber",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Haas",
+    "itemNum": "71049",
+    "series": "Formula 1 Race Car Series",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Miles Morales",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Spider-Punk",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Prowler",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Spider Gwen",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Spider-Man 2099",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Spider-Man India",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Cyborg Spider-Woman",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Sun-Spider",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Spider-Byte",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Peter B. Parker and Mayday",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Web-Slinger",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Werewolf Spider-Man",
+    "itemNum": "71050",
+    "series": "Spider-Man",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Collectible Minifigs"
+    ]
   }
 ]
