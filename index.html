@@ -362,7 +362,7 @@
     }
 
     .fig-img-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
-    .fig-img-wrap .no-img { font-size: 2.5rem; opacity: 0.2; }
+    .fig-img-wrap .no-img { font-size: 2.5rem; opacity: 0.2; display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
 
     /* ── COLLECTED BADGE ── */
     .collected-badge {
@@ -449,6 +449,30 @@
 (async () => {
   const res = await fetch('data.json');
   const data = await res.json();
+
+  // Categories where images live flat (no series subfolder)
+  const FLAT_IMG_CATS = new Set(['BAM', 'Spongebob']);
+
+  // BAM slugs that collide across multiple figs — use itemNum suffix to disambiguate
+  const bamSlugCounts = {};
+  for (const fig of data) {
+    if (fig.categories.includes('BAM')) {
+      const slug = fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      bamSlugCounts[slug] = (bamSlugCounts[slug] || 0) + 1;
+    }
+  }
+  const BAM_DUPE_SLUGS = new Set(Object.keys(bamSlugCounts).filter(s => bamSlugCounts[s] > 1));
+
+  function imgSrc(fig) {
+    const cat  = fig.categories[0].toLowerCase();
+    const name = fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    if (fig.categories[0] === 'BAM' && BAM_DUPE_SLUGS.has(name)) {
+      return `images/${cat}/${name}-${fig.itemNum}.webp`;
+    }
+    return FLAT_IMG_CATS.has(fig.categories[0])
+      ? `images/${cat}/${name}.webp`
+      : `images/${cat}/${fig.series.toLowerCase()}/${name}.webp`;
+  }
 
   const CATEGORY_ORDER = [
     'Collectible Minifigs', 'Disney', 'BAM',
@@ -550,15 +574,13 @@
         card.dataset.name = fig.name.toLowerCase();
         card.dataset.collected = fig.collected ? '1' : '0';
 
-        const hasImg = fig.img && fig.img !== 'string';
+        const fallbackSrc = fig.img && fig.img !== 'string' ? fig.img : null;
+        const onerror = fallbackSrc
+          ? `this.onerror=null;this.src='${fallbackSrc}'`
+          : `this.onerror=null;this.style.display='none'`;
         card.innerHTML = `
           <div class="fig-img-wrap">
-            ${hasImg
-              ? `<img src="images/${fig.series.toLowerCase()}/${fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}.webp"
-                      alt="${fig.name}" loading="lazy"
-                      onerror="this.onerror=null;this.src='${fig.img}'" />`
-              : `<span class="no-img">🧱</span>`
-            }
+            <img src="${imgSrc(fig)}" alt="${fig.name}" loading="lazy" onerror="${onerror}" />
             <div class="collected-badge">
               <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
             </div>
