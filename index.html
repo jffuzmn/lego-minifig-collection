@@ -511,6 +511,7 @@
     if (mA && mB) return parseInt(mA[1]) - parseInt(mB[1]);
     if (mA) return -1;
     if (mB) return 1;
+    if (catA === 'BAM') return serB.localeCompare(serA);
     return serA.localeCompare(serB);
   });
 
