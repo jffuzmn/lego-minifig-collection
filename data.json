@@ -2736,7 +2736,8 @@
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001738.jpg",
     "categories": [
-      "Collectible Minifigs"
+      "Collectible Minifigs",
+      "Brick Body"
     ]
   },
   {
@@ -2816,7 +2817,8 @@
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-001739.jpg",
     "categories": [
-      "Collectible Minifigs"
+      "Collectible Minifigs",
+      "Brick Body"
     ]
   },
   {
@@ -3096,7 +3098,8 @@
     "collected": true,
     "img": "https://cdn.rebrickable.com/media/sets/fig-006029.jpg",
     "categories": [
-      "Collectible Minifigs"
+      "Collectible Minifigs",
+      "Brick Body"
     ]
   },
   {
@@ -4396,7 +4399,8 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "BAM"
+      "BAM",
+      "Brick Body"
     ]
   },
   {
@@ -4646,7 +4650,8 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "BAM"
+      "BAM",
+      "Brick Body"
     ]
   },
   {
@@ -5116,7 +5121,8 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "BAM"
+      "BAM",
+      "Brick Body"
     ]
   },
   {
@@ -5426,7 +5432,8 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "BAM"
+      "BAM",
+      "Brick Body"
     ]
   },
   {
@@ -5526,7 +5533,8 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "BAM"
+      "BAM",
+      "Brick Body"
     ]
   },
   {
@@ -5936,7 +5944,8 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "BAM"
+      "BAM",
+      "Brick Body"
     ]
   },
   {
