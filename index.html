@@ -598,8 +598,8 @@
             c.dataset.collected = fig.collected ? '1' : '0';
             c.classList.toggle('collected', fig.collected);
           }
-          updateStats();
           saveState();
+          updateStats();
         });
 
         figToCards.get(fig).push(card);
@@ -680,11 +680,15 @@
       if (barEl) barEl.style.width = `${catPct}%`;
     }
 
-    document.getElementById('stat-collected').textContent = collected;
-    document.getElementById('stat-total').textContent = total;
+    const collectedEl = document.getElementById('header-stat-collected');
+    const totalEl = document.getElementById('header-stat-total');
+    const pctEl = document.getElementById('header-stat-pct');
+    const progressEl = document.getElementById('header-global-progress');
     const pct = total ? (collected / total * 100).toFixed(1) : 0;
-    document.getElementById('stat-pct').textContent = pct + '%';
-    document.getElementById('global-progress').style.width = pct + '%';
+    if (collectedEl) collectedEl.textContent = collected;
+    if (totalEl) totalEl.textContent = total;
+    if (pctEl) pctEl.textContent = pct + '%';
+    if (progressEl) progressEl.style.width = pct + '%';
   }
 
   // ── FILTER BAR ──

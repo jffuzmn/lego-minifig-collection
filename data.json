@@ -8127,5 +8127,546 @@
     "categories": [
       "Toy Story"
     ]
+  },
+  {
+    "name": "Farmer Joe",
+    "itemNum": "1505",
+    "series": "2021 Q3/Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Mariachi Skeleton",
+    "itemNum": "1505",
+    "series": "2021 Q3/Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Snowboarding Girl",
+    "itemNum": "1507",
+    "series": "2021 Q3/Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Balloon Girl",
+    "itemNum": "1508",
+    "series": "2021 Q3/Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Mad Scientist",
+    "itemNum": "1509",
+    "series": "2021 Q3/Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Block Guy",
+    "itemNum": "1505",
+    "series": "2021 Q3/Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM",
+      "Brick Body"
+    ]
+  },
+  {
+    "name": "Shark Girl",
+    "itemNum": "1505",
+    "series": "2021 Q3/Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Pug Man",
+    "itemNum": "1526",
+    "series": "2021 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Tennis Pro",
+    "itemNum": "1527",
+    "series": "2021 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Pastry Chef",
+    "itemNum": "1528",
+    "series": "2021 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Snake Charmer",
+    "itemNum": "1529",
+    "series": "2021 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Caroler",
+    "itemNum": "1522",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Pink Elf",
+    "itemNum": "1521",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Santa Clause",
+    "itemNum": "1520",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Waterskier Girl",
+    "itemNum": "1513",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Clown",
+    "itemNum": "1512",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Rock n Roll Girl",
+    "itemNum": "1504",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Sword Guy",
+    "itemNum": "1503",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Pizza Guy",
+    "itemNum": "1502",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Ted E Bear",
+    "itemNum": "1513",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Cowboy",
+    "itemNum": "1500",
+    "series": "2020 Q4",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Mr. Pumpkinhead",
+    "itemNum": "1514",
+    "series": "2020 Q3 Halloween",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Sorcerer",
+    "itemNum": "1516",
+    "series": "2020 Q3 Halloween",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Tiger Boy",
+    "itemNum": "1515",
+    "series": "2020 Q3 Halloween",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Soccer Guy",
+    "itemNum": "",
+    "series": "2020 Q3",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Beach Girl",
+    "itemNum": "",
+    "series": "2020 Q3",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Neon Girl",
+    "itemNum": "",
+    "series": "2020 Q3",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Pool Dude",
+    "itemNum": "",
+    "series": "2020 Q3",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Pet Shop Owner",
+    "itemNum": "",
+    "series": "2020 Q3",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Captain Jazz",
+    "itemNum": "",
+    "series": "2020 Q3",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Pie Chef",
+    "itemNum": "",
+    "series": "2020 Q3",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Dog Lover",
+    "itemNum": "1531",
+    "series": "2020 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Construction Worker",
+    "itemNum": "1532",
+    "series": "2020 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Archer",
+    "itemNum": "1533",
+    "series": "2020 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Baseball Player",
+    "itemNum": "1534",
+    "series": "2020 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Chicken Girl",
+    "itemNum": "1535",
+    "series": "2020 Q2",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Bunny",
+    "itemNum": "1518",
+    "series": "2020 Q2 Easter",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Butterfly Girl",
+    "itemNum": "1517",
+    "series": "2020 Q2 Easter",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Flower Girl",
+    "itemNum": "1519",
+    "series": "2020 Q2 Easter",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Love Elephant",
+    "itemNum": "1523",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Ice Man",
+    "itemNum": "1524",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Penguin Boy",
+    "itemNum": "1525",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Year of the Rat Lady",
+    "itemNum": "1546",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Lumberjack",
+    "itemNum": "1547",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Skiing Champion",
+    "itemNum": "1548",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Vitruvian Minifigure",
+    "itemNum": "1549",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The Banker",
+    "itemNum": "1550",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "The College Student",
+    "itemNum": "1551",
+    "series": "2020 Q1",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Elf",
+    "itemNum": "",
+    "series": "2018 Christmas",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Mrs. Clause - Dark Green Skirt",
+    "itemNum": "",
+    "series": "2018 Christmas",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Mr. Clause",
+    "itemNum": "",
+    "series": "2018 Christmas",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Spider Lady",
+    "itemNum": "",
+    "series": "2018 Halloween",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Wacky Witch",
+    "itemNum": "",
+    "series": "2018 Halloween",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Vampire Purple Vest",
+    "itemNum": "",
+    "series": "2018 Halloween",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "BAM"
+    ]
   }
 ]
