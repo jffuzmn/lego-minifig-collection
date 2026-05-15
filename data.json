@@ -6701,7 +6701,7 @@
   {
     "name": "Little Blue with Air Tanks",
     "itemNum": "sp140",
-    "series": "Space Baby",
+    "series": "Little Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6711,7 +6711,7 @@
   {
     "name": "Little White with Air Tanks",
     "itemNum": "sp141",
-    "series": "Space Baby",
+    "series": "Little Spaceman",
     "collected": false,
     "img": "string",
     "categories": [
@@ -6719,11 +6719,41 @@
     ]
   },
   {
-    "name": "Little Pink with Airtanks",
+    "name": "Little Pink with Air Tanks",
     "itemNum": "sp142",
-    "series": "Space Baby",
+    "series": "Little Spaceman",
     "collected": false,
     "img": "string",
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Light Blue with Air Tanks",
+    "itemNum": null,
+    "series": "Spaceman",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Navy Blue with Air Tanks",
+    "itemNum": null,
+    "series": "Spaceman",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Space Classic"
+    ]
+  },
+  {
+    "name": "Brown with Air Tanks",
+    "itemNum": null,
+    "series": "Spaceman",
+    "collected": false,
+    "img": null,
     "categories": [
       "Space Classic"
     ]
@@ -7044,6 +7074,16 @@
     "series": "Spongebob",
     "collected": false,
     "img": "string",
+    "categories": [
+      "Spongebob"
+    ]
+  },
+  {
+    "name": "Plankton with Sticker",
+    "itemNum": null,
+    "series": "Spongebob",
+    "collected": false,
+    "img": null,
     "categories": [
       "Spongebob"
     ]
@@ -8906,7 +8946,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8916,7 +8956,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8926,7 +8966,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8936,7 +8976,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8946,7 +8986,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8956,7 +8996,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8966,7 +9006,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8976,7 +9016,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8986,7 +9026,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -8996,7 +9036,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9006,7 +9046,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9016,7 +9056,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9026,7 +9066,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9036,7 +9076,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9046,7 +9086,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9056,7 +9096,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9066,7 +9106,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9076,7 +9116,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9086,7 +9126,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9096,7 +9136,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9106,7 +9146,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9116,7 +9156,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9126,7 +9166,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9136,7 +9176,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9146,7 +9186,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9156,7 +9196,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   },
   {
@@ -9166,7 +9206,7 @@
     "collected": false,
     "img": "string",
     "categories": [
-      "Disney"
+      "Avatar"
     ]
   }
 ]

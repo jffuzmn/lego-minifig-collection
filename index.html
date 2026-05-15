@@ -455,7 +455,7 @@
   const data = await res.json();
 
   // Categories where images live flat (no series subfolder)
-  const FLAT_IMG_CATS = new Set(['BAM', 'Spongebob', 'Spiderman', 'Animal Crossing']);
+  const FLAT_IMG_CATS = new Set(['BAM', 'Spongebob', 'Spiderman', 'Animal Crossing', 'Avatar']);
 
   // BAM slugs that collide across multiple figs — use itemNum suffix to disambiguate
   const bamSlugCounts = {};
@@ -479,7 +479,7 @@
   }
 
   const CATEGORY_ORDER = [
-    'Collectible Minifigs', 'Disney', 'BAM',
+    'Collectible Minifigs', 'Disney', 'Avatar', 'BAM',
     'Animal Crossing', 'Toy Story', 'Spongebob',
     'Spiderman', 'F1 Cars', 'Space Classic', 'Brick Body'
   ];
