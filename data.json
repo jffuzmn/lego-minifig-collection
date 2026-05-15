@@ -8668,5 +8668,505 @@
     "categories": [
       "BAM"
     ]
+  },
+  {
+    "name": "Carl Fredricksen",
+    "itemNum": "dis091",
+    "series": "UP",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Russell",
+    "itemNum": "dis090",
+    "series": "UP",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Dug",
+    "itemNum": "43217",
+    "series": "UP",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Mickey Mouse - Bluish Gray Shorts",
+    "itemNum": "43217",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Minnie Mouse - Bluish Gray Skirt",
+    "itemNum": "dis142",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Walt Disney",
+    "itemNum": "dis140",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Bambi",
+    "itemNum": "43230",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Dumbo",
+    "itemNum": "43230",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Mickey Mouse - Tuxedo Jacket, Red Bow Tie",
+    "itemNum": "dis057",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Tinker Bell - Minifigure, Trans-Light Blue Butterfly Wings",
+    "itemNum": "dis086",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Minnie Mouse - Bright Pink Jacket, Red Polka Dot Dress, Yellow Bow",
+    "itemNum": "dis089",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Mickey Mouse - Blue Vest",
+    "itemNum": "dis085",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Mickey Mouse - Dark Turquoise Overalls",
+    "itemNum": "dis115",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Violet",
+    "itemNum": "incr004",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Brick",
+    "itemNum": "incr009",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Dash",
+    "itemNum": "inc002",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Edna Mode",
+    "itemNum": "incr010",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Mr. Incredible",
+    "itemNum": "incr005",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Elastigirl",
+    "itemNum": "incr001",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Jack-Jack",
+    "itemNum": "incr003",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Mrs. Incredible",
+    "itemNum": "incr006",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Screenslaver",
+    "itemNum": "incr007",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Underminer",
+    "itemNum": "incr008",
+    "series": "Incredibles",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Ao'nung",
+    "itemNum": "avt021",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Colonel Miles Quaritch",
+    "itemNum": "avt002",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Crabsuit Driver",
+    "itemNum": "avt017",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Dr. Grace Augustine",
+    "itemNum": "avt007",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Jake Sully - Human",
+    "itemNum": "avt010",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Jake Sully - Na'vi, Bare Chest, No Face Paint",
+    "itemNum": "avt013",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Jake Sully - Na'vi, Shoulder Strap, Orange Face Paint",
+    "itemNum": "avt011",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Jake Sully - Na'vi, Shoulder Strap, Utility Belt",
+    "itemNum": "avt022",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Jake Sully - Na'vi, Toruk Makto",
+    "itemNum": "avt006",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Kiri",
+    "itemNum": "avt027",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Lo'ak",
+    "itemNum": "avt020",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Mo'at",
+    "itemNum": "avt005",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Neteyam",
+    "itemNum": "avt019",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Neytiri - Dark Orange Straps and Medium Nougat Feather Necklace, Closed Mouth Smile",
+    "itemNum": "avt024",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Neytiri - Lime and Magenta Feather Necklace, Closed Mouth Smile",
+    "itemNum": "avt004",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Neytiri - Lime and Magenta Feather Necklace, Headband, Open Mouth Smile",
+    "itemNum": "avt012",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Neytiri - Yellow Armor and War Paint",
+    "itemNum": "avt001",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Norm Spellman - Na'vi",
+    "itemNum": "avt009",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "RDA Quaritch - Na'vi",
+    "itemNum": "avt018",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Ronal",
+    "itemNum": "avt026",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Spider",
+    "itemNum": "avt016",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Tonowari - Reddish Brown Strap and Silver Belt",
+    "itemNum": "avt023",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Tonowari - Silver Necklace and Beads",
+    "itemNum": "avt025",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Trudy Chacon",
+    "itemNum": "avt008",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Tsireya",
+    "itemNum": "avt015",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Tsu'tey",
+    "itemNum": "avt003",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
+  },
+  {
+    "name": "Tuk",
+    "itemNum": "avt014",
+    "series": "Avatar",
+    "collected": false,
+    "img": "string",
+    "categories": [
+      "Disney"
+    ]
   }
 ]
