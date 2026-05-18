@@ -455,22 +455,29 @@
   const data = await res.json();
 
   // Categories where images live flat (no series subfolder)
-  const FLAT_IMG_CATS = new Set(['BAM', 'Spongebob', 'Spiderman', 'Animal Crossing', 'Avatar']);
+  const FLAT_IMG_CATS = new Set(['BAM', 'Spongebob', 'Spiderman', 'Animal Crossing', 'Avatar', 'Other']);
 
-  // BAM slugs that collide across multiple figs — use itemNum suffix to disambiguate
-  const bamSlugCounts = {};
-  for (const fig of data) {
-    if (fig.categories.includes('BAM')) {
-      const slug = fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-      bamSlugCounts[slug] = (bamSlugCounts[slug] || 0) + 1;
+  // Slugs that collide within a flat category — use itemNum suffix to disambiguate
+  function buildDupeSlugs(cat) {
+    const counts = {};
+    for (const fig of data) {
+      if (fig.categories.includes(cat)) {
+        const slug = fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+        counts[slug] = (counts[slug] || 0) + 1;
+      }
     }
+    return new Set(Object.keys(counts).filter(s => counts[s] > 1));
   }
-  const BAM_DUPE_SLUGS = new Set(Object.keys(bamSlugCounts).filter(s => bamSlugCounts[s] > 1));
+  const BAM_DUPE_SLUGS   = buildDupeSlugs('BAM');
+  const OTHER_DUPE_SLUGS = buildDupeSlugs('Other');
 
   function imgSrc(fig) {
     const cat  = fig.categories[0].toLowerCase();
     const name = fig.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
     if (fig.categories[0] === 'BAM' && BAM_DUPE_SLUGS.has(name)) {
+      return `images/${cat}/${name}-${fig.itemNum}.webp`;
+    }
+    if (fig.categories[0] === 'Other' && OTHER_DUPE_SLUGS.has(name)) {
       return `images/${cat}/${name}-${fig.itemNum}.webp`;
     }
     return FLAT_IMG_CATS.has(fig.categories[0])
@@ -481,7 +488,7 @@
   const CATEGORY_ORDER = [
     'Collectible Minifigs', 'Disney', 'Avatar', 'BAM',
     'Animal Crossing', 'Toy Story', 'Spongebob',
-    'Spiderman', 'F1 Cars', 'Space Classic', 'Brick Body'
+    'Spiderman', 'F1 Cars', 'Space Classic', 'Brick Body', 'Other'
   ];
 
   // Only show categories that have data, in defined order

@@ -9208,5 +9208,429 @@
     "categories": [
       "Avatar"
     ]
+  },
+  {
+    "name": "The Penguin",
+    "itemNum": "sh0314",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Party Banana Juice Bar",
+    "itemNum": "5005250",
+    "series": "Misc",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Rami",
+    "itemNum": "70435",
+    "series": "Hidden Side",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Race Car Driver",
+    "itemNum": "cty1593",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Easter Bunny Guy",
+    "itemNum": "hol116",
+    "series": "Holiday",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Bear Stunt Bike",
+    "itemNum": "60356",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Gaming Tournament - Female",
+    "itemNum": "60356",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Gaming Tournament - Male",
+    "itemNum": "60356",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Giraffe Guy",
+    "itemNum": "71023",
+    "series": "Lego Movie 2",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Watermelon Dude",
+    "itemNum": "71023",
+    "series": "Lego Movie 2",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Eggstreme Driver",
+    "itemNum": "71023",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Adidas Shoebox Costume",
+    "itemNum": "40486",
+    "series": "Exclusive",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Female Firefighter",
+    "itemNum": "cty1356",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Jack Davids",
+    "itemNum": "hs043",
+    "series": "Hidden Side",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Prisoner Criminal",
+    "itemNum": "isx006a",
+    "series": "Xtreme Stunts",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Retro Food Truck Customer",
+    "itemNum": "twn494",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Cyber Stunt Driver",
+    "itemNum": "twn494",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Female Veterinarian",
+    "itemNum": "cty1532",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Male Veterinarian",
+    "itemNum": "cty1533",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Pepper Roni",
+    "itemNum": "isx003a",
+    "series": "Xtreme Stunts",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Sky Lane",
+    "itemNum": "ixs004a",
+    "series": "Xtreme Stunts",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Sudsy Simon",
+    "itemNum": "cty1476",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Artic Explorer",
+    "itemNum": "cty1614",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Park Ranger",
+    "itemNum": "cty1528",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Go-Kart Racer",
+    "itemNum": "cty1432",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Gardener",
+    "itemNum": "cty1535",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Paramedic",
+    "itemNum": "cty1572",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Race Car Driver",
+    "itemNum": "cty1712",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Vest Friend Rex",
+    "itemNum": "tlm161",
+    "series": "Lego Movie 2",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Electric Sports Car Driver",
+    "itemNum": "cty1524",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Jungle Explorer",
+    "itemNum": "cty1765",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Ferrari F40 Competizione Driver",
+    "itemNum": "sc077",
+    "series": "Speed Champions",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Race Car Driver",
+    "itemNum": "cty1711",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Race Car Driver",
+    "itemNum": "cty1718",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Batman - Utility Belt",
+    "itemNum": "sh0329",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "The Joker",
+    "itemNum": "sh0353",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Batman - Juniors Cape",
+    "itemNum": "sh0513",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Harley Quinn",
+    "itemNum": "sh0838",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Imperial Stormtrooper",
+    "itemNum": "sw0617",
+    "series": "Star Wars",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Alfred Pennyworth",
+    "itemNum": "sh0313",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Proxima Midnight",
+    "itemNum": "sh0500",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Security Guard",
+    "itemNum": "sh0320",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Construction Worker",
+    "itemNum": "cty0688",
+    "series": "City",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Dwayne - Possessed",
+    "itemNum": "hs040",
+    "series": "Hidden Side",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Frank the Foreman",
+    "itemNum": "tlm047",
+    "series": "Lego Movie",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Whiperella",
+    "itemNum": "nex061",
+    "series": "Nexo Knights",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Thor",
+    "itemNum": "sh0502",
+    "series": "Super Hero",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Rocket Raccoon",
+    "itemNum": "sh0384",
+    "series": "Super Hero",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Dick Grayson",
+    "itemNum": "sh0325",
+    "series": "Super Hero",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Groot",
+    "itemNum": "sh0501",
+    "series": "Super Hero",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Batman - Scu-Batsuit",
+    "itemNum": "sh0309",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Mr. Freeze",
+    "itemNum": "sh0319",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
+  },
+  {
+    "name": "Commissioner Gordon",
+    "itemNum": "coltbm07",
+    "series": "Batman",
+    "collected": false,
+    "img": "string",
+    "categories": ["Other"]
   }
 ]
