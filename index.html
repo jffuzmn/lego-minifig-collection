@@ -508,6 +508,23 @@
     }
   }
 
+  // BAM series are "YYYY [Qn[/Qn]] [Label]"; rank the label by the month it lands in
+  // so waves within a year sort newest-first regardless of alphabetical order.
+  const BAM_MONTH = {
+    'january': 1, 'chinese new year': 1, 'february': 2, 'march': 3,
+    'april': 4, 'easter': 4, 'may': 5, 'june': 6, 'july': 7, 'summer': 7,
+    'august': 8, 'september': 9, 'halloween': 10, 'october': 10,
+    'november': 11, 'christmas': 12
+  };
+  function bamRank(series) {
+    const year = parseInt(series.slice(0, 4)) || 0;
+    const rest = series.slice(4).trim();
+    const q = rest.match(/^Q(\d)(\/Q\d)?/);
+    const label = (q ? rest.slice(q[0].length) : rest).trim().toLowerCase();
+    const month = label in BAM_MONTH ? BAM_MONTH[label] : (q ? parseInt(q[1]) * 3 - 2 : 0);
+    return year * 100 + month;
+  }
+
   const seriesOrder = [...seriesMap.keys()].sort((a, b) => {
     const catA = a.slice(0, a.indexOf(':')), serA = a.slice(a.indexOf(':') + 1);
     const catB = b.slice(0, b.indexOf(':')), serB = b.slice(b.indexOf(':') + 1);
@@ -518,7 +535,10 @@
     if (mA && mB) return parseInt(mA[1]) - parseInt(mB[1]);
     if (mA) return -1;
     if (mB) return 1;
-    if (catA === 'BAM') return serB.localeCompare(serA);
+    if (catA === 'BAM') {
+      const rankDiff = bamRank(serB) - bamRank(serA);
+      return rankDiff !== 0 ? rankDiff : serB.localeCompare(serA);
+    }
     return serA.localeCompare(serB);
   });
 

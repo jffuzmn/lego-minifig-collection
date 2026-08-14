@@ -8950,6 +8950,106 @@
     ]
   },
   {
+    "name": "Diver",
+    "itemNum": "1731",
+    "series": "2026 Q3 June",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Soccer Player/Coach",
+    "itemNum": "1732",
+    "series": "2026 Q3 June",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Horseback Rider",
+    "itemNum": "1733",
+    "series": "2026 Q3 June",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Baseball Player",
+    "itemNum": "1734",
+    "series": "2026 Q3 June",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Basketball Player",
+    "itemNum": "1735",
+    "series": "2026 Q3 June",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Sumo Wrestler",
+    "itemNum": "1736",
+    "series": "2026 Q3 June",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Cyclist",
+    "itemNum": "1737",
+    "series": "2026 Q3 June",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Frankenstein's Monster",
+    "itemNum": "1738",
+    "series": "2026 Q3 Halloween",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Werewolf Costume Girl",
+    "itemNum": "1739",
+    "series": "2026 Q3 Halloween",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
+    "name": "Zombie Girl",
+    "itemNum": "1740",
+    "series": "2026 Q3 Halloween",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "BAM"
+    ]
+  },
+  {
     "name": "Carl Fredricksen",
     "itemNum": "dis091",
     "series": "UP",
