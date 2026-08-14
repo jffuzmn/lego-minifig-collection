@@ -7449,6 +7449,246 @@
     ]
   },
   {
+    "name": "Shrek",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Fiona & Donkey",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Pinocchio",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Gingy",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Puss in Boots",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Thelonious",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Big Bad Wolf",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Merlin",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Lord Farquaad",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Fairy Godmother",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Prince Charming",
+    "itemNum": "71053",
+    "series": "Shrek",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Oni Warrior",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Flower Child",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Knight",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Spraypainter",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Venetian Gondolier",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Lady in a Bear Costume",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Florist",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Kaiju",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Game Show Host",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Spa Lady",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Child Knight",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
+    "name": "Lady with a Corgi",
+    "itemNum": "71054",
+    "series": "Series 30",
+    "collected": false,
+    "img": null,
+    "categories": [
+      "Collectible Minifigs"
+    ]
+  },
+  {
     "name": "Audie",
     "itemNum": "ani012",
     "series": "Animal Crossing",
@@ -9215,7 +9455,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Party Banana Juice Bar",
@@ -9223,7 +9465,9 @@
     "series": "Misc",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Rami",
@@ -9231,7 +9475,9 @@
     "series": "Hidden Side",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Race Car Driver",
@@ -9239,7 +9485,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Easter Bunny Guy",
@@ -9247,7 +9495,9 @@
     "series": "Holiday",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Bear Stunt Bike",
@@ -9255,7 +9505,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Gaming Tournament - Female",
@@ -9263,7 +9515,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Gaming Tournament - Male",
@@ -9271,7 +9525,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Giraffe Guy",
@@ -9279,7 +9535,9 @@
     "series": "Lego Movie 2",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Watermelon Dude",
@@ -9287,7 +9545,9 @@
     "series": "Lego Movie 2",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Eggstreme Driver",
@@ -9295,7 +9555,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Adidas Shoebox Costume",
@@ -9303,7 +9565,9 @@
     "series": "Exclusive",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Female Firefighter",
@@ -9311,7 +9575,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Jack Davids",
@@ -9319,7 +9585,9 @@
     "series": "Hidden Side",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Prisoner Criminal",
@@ -9327,7 +9595,9 @@
     "series": "Xtreme Stunts",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Retro Food Truck Customer",
@@ -9335,7 +9605,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Cyber Stunt Driver",
@@ -9343,7 +9615,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Female Veterinarian",
@@ -9351,7 +9625,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Male Veterinarian",
@@ -9359,7 +9635,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Pepper Roni",
@@ -9367,7 +9645,9 @@
     "series": "Xtreme Stunts",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Sky Lane",
@@ -9375,7 +9655,9 @@
     "series": "Xtreme Stunts",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Sudsy Simon",
@@ -9383,7 +9665,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Artic Explorer",
@@ -9391,7 +9675,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Park Ranger",
@@ -9399,7 +9685,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Go-Kart Racer",
@@ -9407,7 +9695,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Gardener",
@@ -9415,7 +9705,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Paramedic",
@@ -9423,7 +9715,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Race Car Driver",
@@ -9431,7 +9725,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Vest Friend Rex",
@@ -9439,7 +9735,9 @@
     "series": "Lego Movie 2",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Electric Sports Car Driver",
@@ -9447,7 +9745,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Jungle Explorer",
@@ -9455,7 +9755,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Ferrari F40 Competizione Driver",
@@ -9463,7 +9765,9 @@
     "series": "Speed Champions",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Race Car Driver",
@@ -9471,7 +9775,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Race Car Driver",
@@ -9479,7 +9785,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Batman - Utility Belt",
@@ -9487,7 +9795,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "The Joker",
@@ -9495,7 +9805,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Batman - Juniors Cape",
@@ -9503,7 +9815,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Harley Quinn",
@@ -9511,7 +9825,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Imperial Stormtrooper",
@@ -9519,7 +9835,9 @@
     "series": "Star Wars",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Alfred Pennyworth",
@@ -9527,7 +9845,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Proxima Midnight",
@@ -9535,7 +9855,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Security Guard",
@@ -9543,7 +9865,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Construction Worker",
@@ -9551,7 +9875,9 @@
     "series": "City",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Dwayne - Possessed",
@@ -9559,7 +9885,9 @@
     "series": "Hidden Side",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Frank the Foreman",
@@ -9567,7 +9895,9 @@
     "series": "Lego Movie",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Whiperella",
@@ -9575,7 +9905,9 @@
     "series": "Nexo Knights",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Thor",
@@ -9583,7 +9915,9 @@
     "series": "Super Hero",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Rocket Raccoon",
@@ -9591,7 +9925,9 @@
     "series": "Super Hero",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Dick Grayson",
@@ -9599,7 +9935,9 @@
     "series": "Super Hero",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Groot",
@@ -9607,7 +9945,9 @@
     "series": "Super Hero",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Batman - Scu-Batsuit",
@@ -9615,7 +9955,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Mr. Freeze",
@@ -9623,7 +9965,9 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   },
   {
     "name": "Commissioner Gordon",
@@ -9631,6 +9975,8 @@
     "series": "Batman",
     "collected": false,
     "img": "string",
-    "categories": ["Other"]
+    "categories": [
+      "Other"
+    ]
   }
 ]
